@@ -1,41 +1,41 @@
 [
     {
-        "image": "film-safe.jpg",
+        "date": "2026-01-01",
+        "type": "film",
         "rym": "https://rateyourmusic.com/film/safe/",
         "title": "Safe",
-        "type": "film",
-        "date": "2026-01-01"
+        "image": "film-safe.jpg"
     },
     {
-        "image": "music-blessed-are-the-sick_morbid-angel.jpg",
+        "date": "2026-01-01",
+        "type": "music",
         "rym": "https://rateyourmusic.com/release/album/morbid-angel/blessed-are-the-sick/",
         "artist": "Morbid Angel",
         "album": "Blessed Are The Sick",
-        "type": "music",
-        "date": "2026-01-01"
+        "image": "music-blessed-are-the-sick_morbid-angel.jpg"
     },
     {
-        "image": "music-american-water_silver-jews.jpg",
+        "date": "2026-01-02",
+        "type": "music",
         "rym": "https://rateyourmusic.com/release/album/silver-jews/american-water/",
         "artist": "Silver Jews",
         "album": "American Water",
-        "type": "music",
-        "date": "2026-01-02"
+        "image": "music-american-water_silver-jews.jpg"
     },
     {
-        "image": "music-the-age-of-adz_sufjan-stevens.jpg",
+        "date": "2026-01-03",
+        "type": "music",
         "rym": "https://rateyourmusic.com/release/album/sufjan-stevens/the-age-of-adz/",
         "artist": "Sufjan Stevens",
         "album": "The Age Of Adz",
-        "type": "music",
-        "date": "2026-01-03"
+        "image": "music-the-age-of-adz_sufjan-stevens.jpg"
     },
     {
-        "image": "music-dynamo_soda-stereo.jpg",
+        "date": "2026-01-05",
+        "type": "music",
         "rym": "https://rateyourmusic.com/release/album/soda-stereo/dynamo/",
         "artist": "Soda Stereo",
         "album": "Dynamo",
-        "type": "music",
-        "date": "2026-01-05"
+        "image": "music-dynamo_soda-stereo.jpg"
     }
 ]

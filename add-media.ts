@@ -83,11 +83,11 @@ async function createFilmEntry(
 	await promptAndSaveImage(filename, { height: IMAGE_SIZE })
 
 	return {
-		image: filename,
+		date,
+		type: "film",
 		rym,
 		title: filmTitle,
-		type: "film",
-		date,
+		image: filename,
 	}
 }
 
@@ -116,12 +116,12 @@ async function createMusicEntry(
 	})
 
 	return {
-		image: filename,
+		date,
+		type: "music",
 		rym,
 		artist,
 		album,
-		type: "music",
-		date,
+		image: filename,
 	}
 }
 
