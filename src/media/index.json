@@ -37,5 +37,20 @@
         "artist": "Soda Stereo",
         "album": "Dynamo",
         "image": "music-dynamo_soda-stereo.jpg"
+    },
+    {
+        "date": "2026-01-06",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/soda-stereo/cancion-animal/",
+        "artist": "Soda Stereo",
+        "album": "Cancion Animal",
+        "image": "music-cancion-animal_soda-stereo.jpg"
+    },
+    {
+        "date": "2026-01-07",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/stand-by-me/",
+        "title": "Stand By Me",
+        "image": "film-stand-by-me.jpg"
     }
 ]
