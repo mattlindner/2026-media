@@ -52,5 +52,13 @@
         "rym": "https://rateyourmusic.com/film/stand-by-me/",
         "title": "Stand By Me",
         "image": "film-stand-by-me.jpg"
+    },
+    {
+        "date": "2026-01-09",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/king-gizzard-and-the-lizard-wizard/ice-death-planets-lungs-mushrooms-and-lava/",
+        "artist": "King Gizzard & The Lizard Wizard",
+        "album": "Ice, Death, Planets, Lungs, Mushrooms and Lava",
+        "image": "music-ice,-death,-planets,-lungs,-mushrooms-and-lava_king-gizzard-&-the-lizard-wizard.jpg"
     }
 ]
