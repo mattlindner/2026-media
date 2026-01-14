@@ -60,5 +60,21 @@
         "artist": "King Gizzard & The Lizard Wizard",
         "album": "Ice, Death, Planets, Lungs, Mushrooms and Lava",
         "image": "music-ice,-death,-planets,-lungs,-mushrooms-and-lava_king-gizzard-&-the-lizard-wizard.jpg"
+    },
+    {
+        "date": "2026-01-11",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/soda-stereo/sueno-stereo/",
+        "artist": "Soda Stereo",
+        "album": "Sueño Stereo",
+        "image": "music-sueno-stereo_soda-stereo.jpg"
+    },
+    {
+        "date": "2026-01-13",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/iniquity/serenadium/",
+        "artist": "Iniquity",
+        "album": "Serenadium",
+        "image": "music-serenadium_iniquity.jpg"
     }
 ]
