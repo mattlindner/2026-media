@@ -76,5 +76,12 @@
         "artist": "Iniquity",
         "album": "Serenadium",
         "image": "music-serenadium_iniquity.jpg"
+    },
+    {
+        "date": "2026-01-16",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/sunset-blvd/",
+        "title": "Sunset Blvd",
+        "image": "film-sunset-blvd.jpg"
     }
 ]
