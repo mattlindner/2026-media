@@ -91,5 +91,13 @@
         "artist": "Blut Aus Nord",
         "album": "Memoria Vetusta I: Fathers of the Icy Age",
         "image": "music-memoria-vetusta-i-fathers-of-the-icy-age_blut-aus-nord.jpg"
+    },
+    {
+        "date": "2026-01-18",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/blut-aus-nord/memoria-vetusta-ii-dialogue-with-the-stars/",
+        "artist": "Blut Aus Nord",
+        "album": "Memoria Vetusta II: Dialogue With the Stars ",
+        "image": "music-memoria-vetusta-ii-dialogue-with-the-stars_blut-aus-nord.jpg"
     }
 ]
