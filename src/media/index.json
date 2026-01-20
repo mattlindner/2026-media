@@ -99,5 +99,13 @@
         "artist": "Blut Aus Nord",
         "album": "Memoria Vetusta II: Dialogue With the Stars ",
         "image": "music-memoria-vetusta-ii-dialogue-with-the-stars_blut-aus-nord.jpg"
+    },
+    {
+        "date": "2026-01-20",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/catharsis/hope-against-hope/",
+        "artist": "Catharsis",
+        "album": "Hope Against Hope",
+        "image": "music-hope-against-hope_catharsis.jpg"
     }
 ]
