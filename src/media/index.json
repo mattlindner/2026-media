@@ -107,5 +107,12 @@
         "artist": "Catharsis",
         "album": "Hope Against Hope",
         "image": "music-hope-against-hope_catharsis.jpg"
+    },
+    {
+        "date": "2026-01-21",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/%EC%96%B4%EC%A9%94%EC%88%98%EA%B0%80%EC%97%86%EB%8B%A4/",
+        "title": "어쩔수가없다 (No Other Choice)",
+        "image": "film-어쩔수가없다-(no-other-choice).jpg"
     }
 ]
