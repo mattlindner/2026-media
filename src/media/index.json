@@ -114,5 +114,13 @@
         "rym": "https://rateyourmusic.com/film/%EC%96%B4%EC%A9%94%EC%88%98%EA%B0%80%EC%97%86%EB%8B%A4/",
         "title": "어쩔수가없다 (No Other Choice)",
         "image": "film-어쩔수가없다-(no-other-choice).jpg"
+    },
+    {
+        "date": "2026-01-25",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/kreator/extreme-aggression/",
+        "artist": "Kreator",
+        "album": "Extreme Aggression",
+        "image": "music-extreme-aggression_kreator.jpg"
     }
 ]
