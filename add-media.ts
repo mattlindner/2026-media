@@ -137,7 +137,12 @@ const rym = await input({
 
 const isFilm = rym.includes("rateyourmusic.com/film/")
 const urlParts = getUrlParts(rym)
-const date = new Date().toISOString().split("T")[0]
+const date = new Intl.DateTimeFormat("en-CA", {
+	timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
+	year: "numeric",
+	month: "2-digit",
+	day: "2-digit",
+}).format(new Date())
 
 const newEntry = isFilm
 	? await createFilmEntry(rym, urlParts, date)
