@@ -122,5 +122,13 @@
         "artist": "Kreator",
         "album": "Extreme Aggression",
         "image": "music-extreme-aggression_kreator.jpg"
+    },
+    {
+        "date": "2026-01-25",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/alice-coltrane-featuring-pharoah-sanders/journey-in-satchidananda/",
+        "artist": "Alice Coltrane",
+        "album": "Journey In Satchidananda",
+        "image": "music-journey-in-satchidananda_alice-coltrane.jpg"
     }
 ]
