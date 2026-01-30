@@ -130,5 +130,20 @@
         "artist": "Alice Coltrane",
         "album": "Journey In Satchidananda",
         "image": "music-journey-in-satchidananda_alice-coltrane.jpg"
+    },
+    {
+        "date": "2026-01-28",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/%E8%BE%A3%E6%89%8B%E7%A5%9E%E6%8E%A2/",
+        "title": "辣手神探 (Hard Boiled)",
+        "image": "film-辣手神探-(hard-boiled).jpg"
+    },
+    {
+        "date": "2026-01-29",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/obituary/cause-of-death/",
+        "artist": "Obituary",
+        "album": "Cause Of Death",
+        "image": "music-cause-of-death_obituary.jpg"
     }
 ]
