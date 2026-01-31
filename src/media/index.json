@@ -145,5 +145,13 @@
         "artist": "Obituary",
         "album": "Cause Of Death",
         "image": "music-cause-of-death_obituary.jpg"
+    },
+    {
+        "date": "2026-01-30",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/metallica/metallica/",
+        "artist": "Metallica",
+        "album": "Metallica",
+        "image": "music-metallica_metallica.jpg"
     }
 ]
