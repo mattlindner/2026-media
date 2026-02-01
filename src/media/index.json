@@ -158,5 +158,13 @@
         "artist": "Metallica",
         "album": "Metallica",
         "image": "music-metallica_metallica.jpg"
+    },
+    {
+        "date": "2026-02-01",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/blut-aus-nord/the-work-which-transforms-god/",
+        "artist": "Blut Aus Nord",
+        "album": "The Work Which Transforms God",
+        "image": "music-the-work-which-transforms-god_blut-aus-nord.jpg"
     }
 ]
