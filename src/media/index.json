@@ -4,6 +4,7 @@
         "type": "film",
         "rym": "https://rateyourmusic.com/film/safe/",
         "title": "Safe",
+        "director": "Todd Haynes",
         "image": "film-safe.jpg"
     },
     {
@@ -51,6 +52,7 @@
         "type": "film",
         "rym": "https://rateyourmusic.com/film/stand-by-me/",
         "title": "Stand By Me",
+        "director": "Rob Reiner",
         "image": "film-stand-by-me.jpg"
     },
     {
@@ -82,6 +84,7 @@
         "type": "film",
         "rym": "https://rateyourmusic.com/film/sunset-blvd/",
         "title": "Sunset Blvd",
+        "director": "Billy Wilder",
         "image": "film-sunset-blvd.jpg"
     },
     {
@@ -113,6 +116,7 @@
         "type": "film",
         "rym": "https://rateyourmusic.com/film/%EC%96%B4%EC%A9%94%EC%88%98%EA%B0%80%EC%97%86%EB%8B%A4/",
         "title": "어쩔수가없다 (No Other Choice)",
+        "director": "박찬욱 (Park Chan-wook)",
         "image": "film-어쩔수가없다-(no-other-choice).jpg"
     },
     {
@@ -136,6 +140,7 @@
         "type": "film",
         "rym": "https://rateyourmusic.com/film/%E8%BE%A3%E6%89%8B%E7%A5%9E%E6%8E%A2/",
         "title": "辣手神探 (Hard Boiled)",
+        "director": "吳宇森 (John Woo)",
         "image": "film-辣手神探-(hard-boiled).jpg"
     },
     {

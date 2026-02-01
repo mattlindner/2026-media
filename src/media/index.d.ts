@@ -13,6 +13,7 @@ export interface Music extends BaseMedia {
 export interface Film extends BaseMedia {
 	type: "film"
 	title: string
+	director: string
 }
 
 export type Media = Music | Film

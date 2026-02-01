@@ -78,6 +78,11 @@ async function createFilmEntry(
 		required: true,
 	})
 
+	const director = await input({
+		message: "Enter the director:",
+		required: true,
+	})
+
 	const filename = `film-${toKebabCase(filmTitle)}.jpg`
 
 	await promptAndSaveImage(filename, { height: IMAGE_SIZE })
@@ -87,6 +92,7 @@ async function createFilmEntry(
 		type: "film",
 		rym,
 		title: filmTitle,
+		director,
 		image: filename,
 	}
 }
