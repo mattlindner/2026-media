@@ -166,5 +166,13 @@
         "artist": "Blut Aus Nord",
         "album": "The Work Which Transforms God",
         "image": "music-the-work-which-transforms-god_blut-aus-nord.jpg"
+    },
+    {
+        "date": "2026-02-04",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/the-king-of-comedy/",
+        "title": "The King Of Comedy",
+        "director": "Martin Scorsese",
+        "image": "film-the-king-of-comedy.jpg"
     }
 ]
