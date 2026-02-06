@@ -174,5 +174,13 @@
         "title": "The King Of Comedy",
         "director": "Martin Scorsese",
         "image": "film-the-king-of-comedy.jpg"
+    },
+    {
+        "date": "2026-02-05",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/%E6%8F%BD%E4%BD%ACskai-isyourgod/%E5%85%AB%E6%96%B9%E6%9D%A5%E8%B4%A2/",
+        "artist": "揽佬SKAI ISYOURGOD",
+        "album": "八方来财 Stacks From All Sides",
+        "image": "music-八方来财-stacks-from-all-sides_揽佬skai-isyourgod.jpg"
     }
 ]
