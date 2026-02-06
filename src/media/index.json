@@ -182,5 +182,13 @@
         "artist": "揽佬SKAI ISYOURGOD",
         "album": "八方来财 Stacks From All Sides",
         "image": "music-八方来财-stacks-from-all-sides_揽佬skai-isyourgod.jpg"
+    },
+    {
+        "date": "2026-02-06",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/possessed/seven-churches/",
+        "artist": "Possessed",
+        "album": "Seven Churches",
+        "image": "music-seven-churches_possessed.jpg"
     }
 ]
