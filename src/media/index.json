@@ -190,5 +190,13 @@
         "artist": "Possessed",
         "album": "Seven Churches",
         "image": "music-seven-churches_possessed.jpg"
+    },
+    {
+        "date": "2026-02-09",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/ratboys/the-window/",
+        "artist": "Ratboys",
+        "album": "The Window",
+        "image": "music-the-window_ratboys.jpg"
     }
 ]
