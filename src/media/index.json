@@ -206,5 +206,13 @@
         "title": "Dog Day Afternoon",
         "director": "Sidney Lumet",
         "image": "film-dog-day-afternoon.jpg"
+    },
+    {
+        "date": "2026-02-11",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/lana-del-rey/norman-fucking-rockwell/",
+        "artist": "Lana Del Rey",
+        "album": "Norman Fucking Rockwell!",
+        "image": "music-norman-fucking-rockwell!_lana-del-rey.jpg"
     }
 ]
