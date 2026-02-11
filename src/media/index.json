@@ -198,5 +198,13 @@
         "artist": "Ratboys",
         "album": "The Window",
         "image": "music-the-window_ratboys.jpg"
+    },
+    {
+        "date": "2026-02-10",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/dog-day-afternoon/",
+        "title": "Dog Day Afternoon",
+        "director": "Sidney Lumet",
+        "image": "film-dog-day-afternoon.jpg"
     }
 ]
