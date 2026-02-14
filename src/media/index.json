@@ -214,5 +214,13 @@
         "artist": "Lana Del Rey",
         "album": "Norman Fucking Rockwell!",
         "image": "music-norman-fucking-rockwell!_lana-del-rey.jpg"
+    },
+    {
+        "date": "2026-02-13",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/the-national/boxer/",
+        "artist": "The National",
+        "album": "Boxer",
+        "image": "music-boxer_the-national.jpg"
     }
 ]
