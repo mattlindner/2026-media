@@ -15,7 +15,7 @@ function getWeeksInYear(year: number): Date[][] {
 
   // Don't go past Dec 31 of the given year
   const yearEnd =
-    year !== today.getFullYear() ? currentWeekEnd : new Date(year, 11, 31);
+    year === today.getFullYear() ? currentWeekEnd : new Date(year, 11, 31);
 
   // Find the Sunday on or before Jan 1
   const calendarStart = new Date(yearStart);
