@@ -222,5 +222,13 @@
         "artist": "The National",
         "album": "Boxer",
         "image": "music-boxer_the-national.jpg"
+    },
+    {
+        "date": "2026-02-15",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/j_live/the_best_part/",
+        "artist": "J-Live",
+        "album": "The Best Part",
+        "image": "music-the-best-part_j-live.jpg"
     }
 ]
