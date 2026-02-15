@@ -46,7 +46,7 @@ const Popup = ({ media, closeModal }: PopupProps) => {
               onClick={() => window.open(media.rym, "_blank")}
             />
             {media.type === "music" ? (
-              <div className="info">
+              <div className="popup-info">
                 <div>Artist:</div>
                 <div>
                   <span className="big">{media.artist}</span>
@@ -57,7 +57,7 @@ const Popup = ({ media, closeModal }: PopupProps) => {
                 </div>
               </div>
             ) : (
-              <div className="info">
+              <div className="popup-info">
                 <div>Film:</div>
                 <div>
                   <span className="big">{media.title}</span>
