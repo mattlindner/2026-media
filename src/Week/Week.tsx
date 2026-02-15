@@ -38,6 +38,7 @@ const Week = ({ week, groupedMedia, setSelectedMedia }: WeekProps) => {
       <div className="media">
         {media.map((m) => (
           <>
+            <hr />
             <img
               key={m.rym}
               src={`/2026-media/${m.image}`}
@@ -48,10 +49,10 @@ const Week = ({ week, groupedMedia, setSelectedMedia }: WeekProps) => {
               (m.type === "music" ? (
                 <div className="info">
                   <div>
-                    Artist: <span className="big">{m.artist}</span>
+                    Album: <span className="big">{m.album}</span>
                   </div>
                   <div>
-                    Album: <span className="big">{m.album}</span>
+                    Artist: <span className="big">{m.artist}</span>
                   </div>
                 </div>
               ) : (
