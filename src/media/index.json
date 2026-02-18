@@ -1,242 +1,250 @@
 [
-  {
-    "date": "2026-01-01",
-    "type": "film",
-    "rym": "https://rateyourmusic.com/film/safe/",
-    "title": "Safe",
-    "director": "Todd Haynes",
-    "image": "film-safe.jpg"
-  },
-  {
-    "date": "2026-01-01",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/morbid-angel/blessed-are-the-sick/",
-    "artist": "Morbid Angel",
-    "album": "Blessed Are The Sick",
-    "image": "music-blessed-are-the-sick_morbid-angel.jpg"
-  },
-  {
-    "date": "2026-01-02",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/silver-jews/american-water/",
-    "artist": "Silver Jews",
-    "album": "American Water",
-    "image": "music-american-water_silver-jews.jpg"
-  },
-  {
-    "date": "2026-01-03",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/sufjan-stevens/the-age-of-adz/",
-    "artist": "Sufjan Stevens",
-    "album": "The Age Of Adz",
-    "image": "music-the-age-of-adz_sufjan-stevens.jpg"
-  },
-  {
-    "date": "2026-01-05",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/soda-stereo/dynamo/",
-    "artist": "Soda Stereo",
-    "album": "Dynamo",
-    "image": "music-dynamo_soda-stereo.jpg"
-  },
-  {
-    "date": "2026-01-06",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/soda-stereo/cancion-animal/",
-    "artist": "Soda Stereo",
-    "album": "Cancion Animal",
-    "image": "music-cancion-animal_soda-stereo.jpg"
-  },
-  {
-    "date": "2026-01-07",
-    "type": "film",
-    "rym": "https://rateyourmusic.com/film/stand-by-me/",
-    "title": "Stand By Me",
-    "director": "Rob Reiner",
-    "image": "film-stand-by-me.jpg"
-  },
-  {
-    "date": "2026-01-09",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/king-gizzard-and-the-lizard-wizard/ice-death-planets-lungs-mushrooms-and-lava/",
-    "artist": "King Gizzard & The Lizard Wizard",
-    "album": "Ice, Death, Planets, Lungs, Mushrooms and Lava",
-    "image": "music-ice,-death,-planets,-lungs,-mushrooms-and-lava_king-gizzard-&-the-lizard-wizard.jpg"
-  },
-  {
-    "date": "2026-01-11",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/soda-stereo/sueno-stereo/",
-    "artist": "Soda Stereo",
-    "album": "Sueño Stereo",
-    "image": "music-sueno-stereo_soda-stereo.jpg"
-  },
-  {
-    "date": "2026-01-13",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/iniquity/serenadium/",
-    "artist": "Iniquity",
-    "album": "Serenadium",
-    "image": "music-serenadium_iniquity.jpg"
-  },
-  {
-    "date": "2026-01-15",
-    "type": "film",
-    "rym": "https://rateyourmusic.com/film/sunset-blvd/",
-    "title": "Sunset Blvd",
-    "director": "Billy Wilder",
-    "image": "film-sunset-blvd.jpg"
-  },
-  {
-    "date": "2026-01-16",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/blut-aus-nord/memoria-vetusta-i-fathers-of-the-icy-age/",
-    "artist": "Blut Aus Nord",
-    "album": "Memoria Vetusta I: Fathers of the Icy Age",
-    "image": "music-memoria-vetusta-i-fathers-of-the-icy-age_blut-aus-nord.jpg"
-  },
-  {
-    "date": "2026-01-18",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/blut-aus-nord/memoria-vetusta-ii-dialogue-with-the-stars/",
-    "artist": "Blut Aus Nord",
-    "album": "Memoria Vetusta II: Dialogue With the Stars ",
-    "image": "music-memoria-vetusta-ii-dialogue-with-the-stars_blut-aus-nord.jpg"
-  },
-  {
-    "date": "2026-01-20",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/catharsis/hope-against-hope/",
-    "artist": "Catharsis",
-    "album": "Hope Against Hope",
-    "image": "music-hope-against-hope_catharsis.jpg"
-  },
-  {
-    "date": "2026-01-21",
-    "type": "film",
-    "rym": "https://rateyourmusic.com/film/%EC%96%B4%EC%A9%94%EC%88%98%EA%B0%80%EC%97%86%EB%8B%A4/",
-    "title": "어쩔수가없다 (No Other Choice)",
-    "director": "박찬욱 (Park Chan-wook)",
-    "image": "film-어쩔수가없다-(no-other-choice).jpg"
-  },
-  {
-    "date": "2026-01-24",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/kreator/extreme-aggression/",
-    "artist": "Kreator",
-    "album": "Extreme Aggression",
-    "image": "music-extreme-aggression_kreator.jpg"
-  },
-  {
-    "date": "2026-01-25",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/alice-coltrane-featuring-pharoah-sanders/journey-in-satchidananda/",
-    "artist": "Alice Coltrane",
-    "album": "Journey In Satchidananda",
-    "image": "music-journey-in-satchidananda_alice-coltrane.jpg"
-  },
-  {
-    "date": "2026-01-28",
-    "type": "film",
-    "rym": "https://rateyourmusic.com/film/%E8%BE%A3%E6%89%8B%E7%A5%9E%E6%8E%A2/",
-    "title": "辣手神探 (Hard Boiled)",
-    "director": "吳宇森 (John Woo)",
-    "image": "film-辣手神探-(hard-boiled).jpg"
-  },
-  {
-    "date": "2026-01-29",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/obituary/cause-of-death/",
-    "artist": "Obituary",
-    "album": "Cause Of Death",
-    "image": "music-cause-of-death_obituary.jpg"
-  },
-  {
-    "date": "2026-01-30",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/metallica/metallica/",
-    "artist": "Metallica",
-    "album": "Metallica",
-    "image": "music-metallica_metallica.jpg"
-  },
-  {
-    "date": "2026-02-01",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/blut-aus-nord/the-work-which-transforms-god/",
-    "artist": "Blut Aus Nord",
-    "album": "The Work Which Transforms God",
-    "image": "music-the-work-which-transforms-god_blut-aus-nord.jpg"
-  },
-  {
-    "date": "2026-02-04",
-    "type": "film",
-    "rym": "https://rateyourmusic.com/film/the-king-of-comedy/",
-    "title": "The King Of Comedy",
-    "director": "Martin Scorsese",
-    "image": "film-the-king-of-comedy.jpg"
-  },
-  {
-    "date": "2026-02-05",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/%E6%8F%BD%E4%BD%ACskai-isyourgod/%E5%85%AB%E6%96%B9%E6%9D%A5%E8%B4%A2/",
-    "artist": "揽佬SKAI ISYOURGOD",
-    "album": "八方来财 Stacks From All Sides",
-    "image": "music-八方来财-stacks-from-all-sides_揽佬skai-isyourgod.jpg"
-  },
-  {
-    "date": "2026-02-06",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/possessed/seven-churches/",
-    "artist": "Possessed",
-    "album": "Seven Churches",
-    "image": "music-seven-churches_possessed.jpg"
-  },
-  {
-    "date": "2026-02-09",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/ratboys/the-window/",
-    "artist": "Ratboys",
-    "album": "The Window",
-    "image": "music-the-window_ratboys.jpg"
-  },
-  {
-    "date": "2026-02-10",
-    "type": "film",
-    "rym": "https://rateyourmusic.com/film/dog-day-afternoon/",
-    "title": "Dog Day Afternoon",
-    "director": "Sidney Lumet",
-    "image": "film-dog-day-afternoon.jpg"
-  },
-  {
-    "date": "2026-02-11",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/lana-del-rey/norman-fucking-rockwell/",
-    "artist": "Lana Del Rey",
-    "album": "Norman Fucking Rockwell!",
-    "image": "music-norman-fucking-rockwell!_lana-del-rey.jpg"
-  },
-  {
-    "date": "2026-02-13",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/the-national/boxer/",
-    "artist": "The National",
-    "album": "Boxer",
-    "image": "music-boxer_the-national.jpg"
-  },
-  {
-    "date": "2026-02-15",
-    "type": "music",
-    "rym": "https://rateyourmusic.com/release/album/j_live/the_best_part/",
-    "artist": "J-Live",
-    "album": "The Best Part",
-    "image": "music-the-best-part_j-live.jpg"
-  },
-  {
-    "date": "2026-02-16",
-    "type": "film",
-    "rym": "https://rateyourmusic.com/film/nirvanna-the-band-the-show-the-movie/",
-    "title": "Nirvanna The Band The Show The Movie",
-    "director": "Matt Johnson",
-    "image": "film-nirvanna-the-band-the-show-the-movie.jpg"
-  }
+    {
+        "date": "2026-01-01",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/safe/",
+        "title": "Safe",
+        "director": "Todd Haynes",
+        "image": "film-safe.jpg"
+    },
+    {
+        "date": "2026-01-01",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/morbid-angel/blessed-are-the-sick/",
+        "artist": "Morbid Angel",
+        "album": "Blessed Are The Sick",
+        "image": "music-blessed-are-the-sick_morbid-angel.jpg"
+    },
+    {
+        "date": "2026-01-02",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/silver-jews/american-water/",
+        "artist": "Silver Jews",
+        "album": "American Water",
+        "image": "music-american-water_silver-jews.jpg"
+    },
+    {
+        "date": "2026-01-03",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/sufjan-stevens/the-age-of-adz/",
+        "artist": "Sufjan Stevens",
+        "album": "The Age Of Adz",
+        "image": "music-the-age-of-adz_sufjan-stevens.jpg"
+    },
+    {
+        "date": "2026-01-05",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/soda-stereo/dynamo/",
+        "artist": "Soda Stereo",
+        "album": "Dynamo",
+        "image": "music-dynamo_soda-stereo.jpg"
+    },
+    {
+        "date": "2026-01-06",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/soda-stereo/cancion-animal/",
+        "artist": "Soda Stereo",
+        "album": "Cancion Animal",
+        "image": "music-cancion-animal_soda-stereo.jpg"
+    },
+    {
+        "date": "2026-01-07",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/stand-by-me/",
+        "title": "Stand By Me",
+        "director": "Rob Reiner",
+        "image": "film-stand-by-me.jpg"
+    },
+    {
+        "date": "2026-01-09",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/king-gizzard-and-the-lizard-wizard/ice-death-planets-lungs-mushrooms-and-lava/",
+        "artist": "King Gizzard & The Lizard Wizard",
+        "album": "Ice, Death, Planets, Lungs, Mushrooms and Lava",
+        "image": "music-ice,-death,-planets,-lungs,-mushrooms-and-lava_king-gizzard-&-the-lizard-wizard.jpg"
+    },
+    {
+        "date": "2026-01-11",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/soda-stereo/sueno-stereo/",
+        "artist": "Soda Stereo",
+        "album": "Sueño Stereo",
+        "image": "music-sueno-stereo_soda-stereo.jpg"
+    },
+    {
+        "date": "2026-01-13",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/iniquity/serenadium/",
+        "artist": "Iniquity",
+        "album": "Serenadium",
+        "image": "music-serenadium_iniquity.jpg"
+    },
+    {
+        "date": "2026-01-15",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/sunset-blvd/",
+        "title": "Sunset Blvd",
+        "director": "Billy Wilder",
+        "image": "film-sunset-blvd.jpg"
+    },
+    {
+        "date": "2026-01-16",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/blut-aus-nord/memoria-vetusta-i-fathers-of-the-icy-age/",
+        "artist": "Blut Aus Nord",
+        "album": "Memoria Vetusta I: Fathers of the Icy Age",
+        "image": "music-memoria-vetusta-i-fathers-of-the-icy-age_blut-aus-nord.jpg"
+    },
+    {
+        "date": "2026-01-18",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/blut-aus-nord/memoria-vetusta-ii-dialogue-with-the-stars/",
+        "artist": "Blut Aus Nord",
+        "album": "Memoria Vetusta II: Dialogue With the Stars ",
+        "image": "music-memoria-vetusta-ii-dialogue-with-the-stars_blut-aus-nord.jpg"
+    },
+    {
+        "date": "2026-01-20",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/catharsis/hope-against-hope/",
+        "artist": "Catharsis",
+        "album": "Hope Against Hope",
+        "image": "music-hope-against-hope_catharsis.jpg"
+    },
+    {
+        "date": "2026-01-21",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/%EC%96%B4%EC%A9%94%EC%88%98%EA%B0%80%EC%97%86%EB%8B%A4/",
+        "title": "어쩔수가없다 (No Other Choice)",
+        "director": "박찬욱 (Park Chan-wook)",
+        "image": "film-어쩔수가없다-(no-other-choice).jpg"
+    },
+    {
+        "date": "2026-01-24",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/kreator/extreme-aggression/",
+        "artist": "Kreator",
+        "album": "Extreme Aggression",
+        "image": "music-extreme-aggression_kreator.jpg"
+    },
+    {
+        "date": "2026-01-25",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/alice-coltrane-featuring-pharoah-sanders/journey-in-satchidananda/",
+        "artist": "Alice Coltrane",
+        "album": "Journey In Satchidananda",
+        "image": "music-journey-in-satchidananda_alice-coltrane.jpg"
+    },
+    {
+        "date": "2026-01-28",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/%E8%BE%A3%E6%89%8B%E7%A5%9E%E6%8E%A2/",
+        "title": "辣手神探 (Hard Boiled)",
+        "director": "吳宇森 (John Woo)",
+        "image": "film-辣手神探-(hard-boiled).jpg"
+    },
+    {
+        "date": "2026-01-29",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/obituary/cause-of-death/",
+        "artist": "Obituary",
+        "album": "Cause Of Death",
+        "image": "music-cause-of-death_obituary.jpg"
+    },
+    {
+        "date": "2026-01-30",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/metallica/metallica/",
+        "artist": "Metallica",
+        "album": "Metallica",
+        "image": "music-metallica_metallica.jpg"
+    },
+    {
+        "date": "2026-02-01",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/blut-aus-nord/the-work-which-transforms-god/",
+        "artist": "Blut Aus Nord",
+        "album": "The Work Which Transforms God",
+        "image": "music-the-work-which-transforms-god_blut-aus-nord.jpg"
+    },
+    {
+        "date": "2026-02-04",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/the-king-of-comedy/",
+        "title": "The King Of Comedy",
+        "director": "Martin Scorsese",
+        "image": "film-the-king-of-comedy.jpg"
+    },
+    {
+        "date": "2026-02-05",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/%E6%8F%BD%E4%BD%ACskai-isyourgod/%E5%85%AB%E6%96%B9%E6%9D%A5%E8%B4%A2/",
+        "artist": "揽佬SKAI ISYOURGOD",
+        "album": "八方来财 Stacks From All Sides",
+        "image": "music-八方来财-stacks-from-all-sides_揽佬skai-isyourgod.jpg"
+    },
+    {
+        "date": "2026-02-06",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/possessed/seven-churches/",
+        "artist": "Possessed",
+        "album": "Seven Churches",
+        "image": "music-seven-churches_possessed.jpg"
+    },
+    {
+        "date": "2026-02-09",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/ratboys/the-window/",
+        "artist": "Ratboys",
+        "album": "The Window",
+        "image": "music-the-window_ratboys.jpg"
+    },
+    {
+        "date": "2026-02-10",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/dog-day-afternoon/",
+        "title": "Dog Day Afternoon",
+        "director": "Sidney Lumet",
+        "image": "film-dog-day-afternoon.jpg"
+    },
+    {
+        "date": "2026-02-11",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/lana-del-rey/norman-fucking-rockwell/",
+        "artist": "Lana Del Rey",
+        "album": "Norman Fucking Rockwell!",
+        "image": "music-norman-fucking-rockwell!_lana-del-rey.jpg"
+    },
+    {
+        "date": "2026-02-13",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/the-national/boxer/",
+        "artist": "The National",
+        "album": "Boxer",
+        "image": "music-boxer_the-national.jpg"
+    },
+    {
+        "date": "2026-02-15",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/j_live/the_best_part/",
+        "artist": "J-Live",
+        "album": "The Best Part",
+        "image": "music-the-best-part_j-live.jpg"
+    },
+    {
+        "date": "2026-02-16",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/nirvanna-the-band-the-show-the-movie/",
+        "title": "Nirvanna The Band The Show The Movie",
+        "director": "Matt Johnson",
+        "image": "film-nirvanna-the-band-the-show-the-movie.jpg"
+    },
+    {
+        "date": "2026-02-18",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/j-live/all-of-the-above/",
+        "artist": "J Live",
+        "album": "All Of The Above",
+        "image": "music-all-of-the-above_j-live.jpg"
+    }
 ]
