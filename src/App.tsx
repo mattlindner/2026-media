@@ -50,11 +50,7 @@ function getWeeksInYear(year: number): Date[][] {
 const App = () => {
   const [selectedMedia, setSelectedMedia] = useState<Media | null>(null);
 
-  const weeks = useMemo(() => {
-    const today = new Date();
-
-    return getWeeksInYear(today.getFullYear());
-  }, []);
+  const weeks = useMemo(() => getWeeksInYear(2026).reverse(), []);
 
   const groupedMedia = useMemo(() => {
     const map: Record<string, typeof media> = {};
@@ -65,10 +61,6 @@ const App = () => {
       map[item.date].push(item);
     });
     return map;
-  }, []);
-
-  useEffect(() => {
-    window.scrollTo(0, document.body.scrollHeight);
   }, []);
 
   return (
