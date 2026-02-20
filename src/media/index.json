@@ -246,5 +246,13 @@
         "artist": "J Live",
         "album": "All Of The Above",
         "image": "music-all-of-the-above_j-live.jpg"
+    },
+    {
+        "date": "2026-02-20",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/converge/love-is-not-enough/",
+        "artist": "Converge",
+        "album": "Love Is Not Enough",
+        "image": "music-love-is-not-enough_converge.jpg"
     }
 ]
