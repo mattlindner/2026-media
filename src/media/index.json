@@ -254,5 +254,13 @@
         "artist": "Converge",
         "album": "Love Is Not Enough",
         "image": "music-love-is-not-enough_converge.jpg"
+    },
+    {
+        "date": "2026-02-22",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/arctic-monkeys/whatever-people-say-i-am-thats-what-im-not/",
+        "artist": "Arctic Monkeys",
+        "album": "Whatever People Say I Am, That's What I'm Not ",
+        "image": "music-whatever-people-say-i-am,-that's-what-i'm-not_arctic-monkeys.jpg"
     }
 ]
