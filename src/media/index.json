@@ -262,5 +262,13 @@
         "artist": "Arctic Monkeys",
         "album": "Whatever People Say I Am, That's What I'm Not ",
         "image": "music-whatever-people-say-i-am,-that's-what-i'm-not_arctic-monkeys.jpg"
+    },
+    {
+        "date": "2026-02-24",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/sorry-to-bother-you/",
+        "title": "Sorry To Bother You",
+        "director": "Boots Riley",
+        "image": "film-sorry-to-bother-you.jpg"
     }
 ]
