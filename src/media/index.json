@@ -270,5 +270,13 @@
         "title": "Sorry To Bother You",
         "director": "Boots Riley",
         "image": "film-sorry-to-bother-you.jpg"
+    },
+    {
+        "date": "2026-02-26",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/willie-colon-and-ruben-blades/siembra/",
+        "artist": "Willie Colón & Rubén Blades",
+        "album": "Siembra",
+        "image": "music-siembra_willie-colon-&-ruben-blades.jpg"
     }
 ]
