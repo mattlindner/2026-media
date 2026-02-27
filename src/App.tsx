@@ -39,7 +39,6 @@ function getWeeksInYear(year: number): Date[][] {
     if (week.length > 0) {
       weeks.push(week);
     }
-    2;
     // Next Sunday
     current.setDate(current.getDate() + 7);
   }
@@ -49,19 +48,11 @@ function getWeeksInYear(year: number): Date[][] {
 
 const App = () => {
   const [selectedMedia, setSelectedMedia] = useState<Media | null>(null);
-
   const weeks = useMemo(() => getWeeksInYear(2026).reverse(), []);
-
-  const groupedMedia = useMemo(() => {
-    const map: Record<string, typeof media> = {};
-    media.forEach((item) => {
-      if (!map[item.date]) {
-        map[item.date] = [];
-      }
-      map[item.date].push(item);
-    });
-    return map;
-  }, []);
+  const groupedMedia = useMemo(
+    () => Object.groupBy(media, (item) => item.date),
+    [],
+  );
 
   return (
     <div>

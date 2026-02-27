@@ -1,11 +1,11 @@
 import { useMemo, useContext } from "react";
-import { Media, MediaData } from "../media";
+import { Media } from "../media";
 import { ScreenContext } from "../util/screenContext";
 import "./Week.css";
 
 type WeekProps = {
   week: Date[];
-  groupedMedia: Record<string, MediaData>;
+  groupedMedia: Partial<Record<string, Media[]>>;
   setSelectedMedia: (media: Media) => void;
 };
 
@@ -43,7 +43,13 @@ const Week = ({ week, groupedMedia, setSelectedMedia }: WeekProps) => {
               key={m.rym}
               src={`/2026-media/${m.image}`}
               alt={m.type === "film" ? m.title : m.artist}
-              onClick={() => setSelectedMedia(m)}
+              onClick={() => {
+                if (isMobile) {
+                  window.open(m.rym, "_blank");
+                } else {
+                  setSelectedMedia(m);
+                }
+              }}
             />
             {isMobile &&
               (m.type === "music" ? (
