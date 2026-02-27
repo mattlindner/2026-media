@@ -278,5 +278,13 @@
         "artist": "Willie Colón & Rubén Blades",
         "album": "Siembra",
         "image": "music-siembra_willie-colon-&-ruben-blades.jpg"
+    },
+    {
+        "date": "2026-02-27",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/willie-colon-hector-lavoe/vigilante/",
+        "artist": "Willie Colón & Héctor Lavoe",
+        "album": "Vigilante",
+        "image": "music-vigilante_willie-colon-&-hector-lavoe.jpg"
     }
 ]
