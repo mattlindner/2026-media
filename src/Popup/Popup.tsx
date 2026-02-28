@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import { Media } from "../media";
+import { getMediaLabels } from "../util/mediaLabels";
 import "./Popup.css";
 
 type PopupProps = {
@@ -31,6 +32,8 @@ const Popup = ({ media, closeModal }: PopupProps) => {
     };
   }, [closeModal]);
 
+  const { titleLabel, title, subtitleLabel, subtitle } = getMediaLabels(media);
+
   return (
     <div className="modal" id="modal">
       <div className="modal-content">
@@ -45,29 +48,16 @@ const Popup = ({ media, closeModal }: PopupProps) => {
               alt={media.rym}
               onClick={() => window.open(media.rym, "_blank")}
             />
-            {media.type === "music" ? (
-              <div className="popup-info">
-                <div>Artist:</div>
-                <div>
-                  <span className="big">{media.artist}</span>
-                </div>
-                <div>Album:</div>
-                <div>
-                  <span className="big">{media.album}</span>
-                </div>
+            <div className="popup-info">
+              <div>{titleLabel}:</div>
+              <div>
+                <span className="big">{title}</span>
               </div>
-            ) : (
-              <div className="popup-info">
-                <div>Film:</div>
-                <div>
-                  <span className="big">{media.title}</span>
-                </div>
-                <div>Director:</div>
-                <div>
-                  <span className="big">{media.director}</span>
-                </div>
+              <div>{subtitleLabel}:</div>
+              <div>
+                <span className="big">{subtitle}</span>
               </div>
-            )}
+            </div>
           </div>
         </div>
       </div>

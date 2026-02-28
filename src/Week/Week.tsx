@@ -1,6 +1,7 @@
 import { useMemo, useContext } from "react";
 import { Media } from "../media";
 import { ScreenContext } from "../util/screenContext";
+import { getMediaLabels } from "../util/mediaLabels";
 import "./Week.css";
 
 type WeekProps = {
@@ -20,10 +21,13 @@ const Week = ({ week, groupedMedia, setSelectedMedia }: WeekProps) => {
     const weekMedia = week.flatMap(
       (day) => groupedMedia[day.toISOString().split("T")[0]] || [],
     );
-    const movieScore = weekMedia.filter((m) => m.type === "film").length;
-    const musicScore = weekMedia.filter((m) => m.type === "music").length;
+    const weekMediaScores = Object.groupBy(weekMedia, (m) => m.type);
 
-    return { media: weekMedia, movieScore, musicScore };
+    return {
+      media: weekMedia,
+      movieScore: weekMediaScores.film?.length ?? 0,
+      musicScore: weekMediaScores.music?.length ?? 0,
+    };
   }, [week, groupedMedia]);
 
   return (
@@ -36,43 +40,37 @@ const Week = ({ week, groupedMedia, setSelectedMedia }: WeekProps) => {
         <div>🎥 : {movieScore} / 1</div>
       </div>
       <div className="media">
-        {media.map((m) => (
-          <>
-            <hr />
-            <img
-              key={m.rym}
-              src={`/2026-media/${m.image}`}
-              alt={m.type === "film" ? m.title : m.artist}
-              onClick={() => {
-                if (isMobile) {
-                  window.open(m.rym, "_blank");
-                } else {
-                  setSelectedMedia(m);
-                }
-              }}
-            />
-            {isMobile &&
-              (m.type === "music" ? (
+        {media.map((m) => {
+          const { titleLabel, title, subtitleLabel, subtitle } =
+            getMediaLabels(m);
+          return (
+            <>
+              <hr />
+              <img
+                key={m.rym}
+                src={`/2026-media/${m.image}`}
+                alt={title}
+                onClick={() => {
+                  if (isMobile) {
+                    window.open(m.rym, "_blank");
+                  } else {
+                    setSelectedMedia(m);
+                  }
+                }}
+              />
+              {isMobile && (
                 <div className="info">
                   <div>
-                    Album: <span className="big">{m.album}</span>
+                    {titleLabel}: <span className="big">{title}</span>
                   </div>
                   <div>
-                    Artist: <span className="big">{m.artist}</span>
+                    {subtitleLabel}: <span className="big">{subtitle}</span>
                   </div>
                 </div>
-              ) : (
-                <div className="info">
-                  <div>
-                    Film: <span className="big">{m.title}</span>
-                  </div>
-                  <div>
-                    Director: <span className="big">{m.director}</span>
-                  </div>
-                </div>
-              ))}
-          </>
-        ))}
+              )}
+            </>
+          );
+        })}
       </div>
     </div>
   );
