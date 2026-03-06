@@ -310,5 +310,13 @@
         "title": "Possession",
         "director": "Andrzej Żuławski",
         "image": "film-possession.jpg"
+    },
+    {
+        "date": "2026-03-06",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/a_ap-rocky/dont-be-dumb/",
+        "artist": "A$AP Rocky",
+        "album": "Don't Be Dumb",
+        "image": "music-don't-be-dumb_a$ap-rocky.jpg"
     }
 ]
