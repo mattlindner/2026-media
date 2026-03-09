@@ -318,5 +318,13 @@
         "artist": "A$AP Rocky",
         "album": "Don't Be Dumb",
         "image": "music-don't-be-dumb_a$ap-rocky.jpg"
+    },
+    {
+        "date": "2026-03-08",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/paramore/after-laughter/",
+        "artist": "Paramore",
+        "album": "After Laughter",
+        "image": "music-after-laughter_paramore.jpg"
     }
 ]
