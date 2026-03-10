@@ -334,5 +334,13 @@
         "artist": "Paramore",
         "album": "This Is Why",
         "image": "music-this-is-why_paramore.jpg"
+    },
+    {
+        "date": "2026-03-10",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/hayley-williams/ego-death-at-a-bachelorette-party/",
+        "artist": "Hayley Williams",
+        "album": "Ego Death at a Bachelorette Party",
+        "image": "music-ego-death-at-a-bachelorette-party_hayley-williams.jpg"
     }
 ]
