@@ -326,5 +326,13 @@
         "artist": "Paramore",
         "album": "After Laughter",
         "image": "music-after-laughter_paramore.jpg"
+    },
+    {
+        "date": "2026-03-09",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/paramore/this-is-why/",
+        "artist": "Paramore",
+        "album": "This Is Why",
+        "image": "music-this-is-why_paramore.jpg"
     }
 ]
