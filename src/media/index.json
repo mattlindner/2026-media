@@ -342,5 +342,13 @@
         "artist": "Hayley Williams",
         "album": "Ego Death at a Bachelorette Party",
         "image": "music-ego-death-at-a-bachelorette-party_hayley-williams.jpg"
+    },
+    {
+        "date": "2026-03-11",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/%E7%BE%85%E7%94%9F%E9%96%80/",
+        "title": "羅生門 (Rashomon)",
+        "director": "黒澤明 (Akira Kurosawa)",
+        "image": "film-羅生門-(rashomon).jpg"
     }
 ]
