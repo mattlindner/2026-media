@@ -350,5 +350,13 @@
         "title": "羅生門 (Rashomon)",
         "director": "黒澤明 (Akira Kurosawa)",
         "image": "film-羅生門-(rashomon).jpg"
+    },
+    {
+        "date": "2026-03-15",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/paramore/brand-new-eyes/",
+        "artist": "Paramore",
+        "album": "Brand New Eyes",
+        "image": "music-brand-new-eyes_paramore.jpg"
     }
 ]
