@@ -358,5 +358,13 @@
         "artist": "Paramore",
         "album": "Brand New Eyes",
         "image": "music-brand-new-eyes_paramore.jpg"
+    },
+    {
+        "date": "2026-03-16",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/lamb-of-god/into-oblivion/",
+        "artist": "Lamb Of God",
+        "album": "Into Oblivion",
+        "image": "music-into-oblivion_lamb-of-god.jpg"
     }
 ]
