@@ -366,5 +366,13 @@
         "artist": "Lamb Of God",
         "album": "Into Oblivion",
         "image": "music-into-oblivion_lamb-of-god.jpg"
+    },
+    {
+        "date": "2026-03-19",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/jay-z/reasonable-doubt/",
+        "artist": "Jay Z",
+        "album": "Reasonable Doubt",
+        "image": "music-reasonable-doubt_jay-z.jpg"
     }
 ]
