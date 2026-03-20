@@ -374,5 +374,13 @@
         "artist": "Jay Z",
         "album": "Reasonable Doubt",
         "image": "music-reasonable-doubt_jay-z.jpg"
+    },
+    {
+        "date": "2026-03-19",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/serpico/",
+        "title": "Serpico",
+        "director": "Sidney Lumet",
+        "image": "film-serpico.jpg"
     }
 ]
