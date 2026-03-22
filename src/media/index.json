@@ -382,5 +382,13 @@
         "title": "Serpico",
         "director": "Sidney Lumet",
         "image": "film-serpico.jpg"
+    },
+    {
+        "date": "2026-03-22",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/project-hail-mary/",
+        "title": "Project Hail Mary",
+        "director": "Phil Lord & Christopher Miller",
+        "image": "film-project-hail-mary.jpg"
     }
 ]
