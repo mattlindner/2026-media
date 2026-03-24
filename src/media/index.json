@@ -390,5 +390,13 @@
         "title": "Project Hail Mary",
         "director": "Phil Lord & Christopher Miller",
         "image": "film-project-hail-mary.jpg"
+    },
+    {
+        "date": "2026-03-24",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/big-pun/capital-punishment/",
+        "artist": "Big Pun",
+        "album": "Capital Punishment",
+        "image": "music-capital-punishment_big-pun.jpg"
     }
 ]
