@@ -398,5 +398,13 @@
         "artist": "Big Pun",
         "album": "Capital Punishment",
         "image": "music-capital-punishment_big-pun.jpg"
+    },
+    {
+        "date": "2026-03-25",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/neurosis/an-undying-love-for-a-burning-world/",
+        "artist": "Neurosis",
+        "album": "An Undying Love For A Burning World",
+        "image": "music-an-undying-love-for-a-burning-world_neurosis.jpg"
     }
 ]
