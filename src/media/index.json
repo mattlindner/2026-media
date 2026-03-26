@@ -406,5 +406,13 @@
         "artist": "Neurosis",
         "album": "An Undying Love For A Burning World",
         "image": "music-an-undying-love-for-a-burning-world_neurosis.jpg"
+    },
+    {
+        "date": "2026-03-26",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/smif-n-wessun/dah-shinin/",
+        "artist": "Smif-n-Wessun",
+        "album": "Dah Shinin'",
+        "image": "music-dah-shinin'_smif-n-wessun.jpg"
     }
 ]
