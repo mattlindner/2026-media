@@ -422,5 +422,13 @@
         "artist": "O.C.",
         "album": "Word...Life",
         "image": "music-wordlife_oc.jpg"
+    },
+    {
+        "date": "2026-03-30",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/midnight-cowboy/",
+        "title": "Midnight Cowboy",
+        "director": "John Schlesinger",
+        "image": "film-midnight-cowboy.jpg"
     }
 ]
