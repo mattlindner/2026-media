@@ -10,7 +10,7 @@ import deburr from "lodash.deburr"
 ============================ */
 
 const IMAGE_SIZE = 500
-const IMAGE_QUALITY = 80
+const IMAGE_QUALITY = 100
 const PUBLIC_DIR = "./public"
 const MEDIA_PATH = "./src/media/index.json"
 const urlRegex = /^(https?):\/\/[^\s/$.?#].[^\s]*$/i

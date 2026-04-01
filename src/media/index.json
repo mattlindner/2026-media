@@ -430,5 +430,13 @@
         "title": "Midnight Cowboy",
         "director": "John Schlesinger",
         "image": "film-midnight-cowboy.jpg"
+    },
+    {
+        "date": "2026-04-01",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/heltah-skeltah/nocturnal/",
+        "artist": "Heltah Skeltah",
+        "album": "Nocturnal",
+        "image": "music-nocturnal_heltah-skeltah.jpg"
     }
 ]
