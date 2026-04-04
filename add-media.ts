@@ -1,9 +1,9 @@
+import fs from "node:fs/promises"
 import { input } from "@inquirer/prompts"
-import fs from "fs/promises"
+import deburr from "lodash.deburr"
 import sharp from "sharp"
 import agent from "superagent"
-import media, { Film, Music } from "./src/media"
-import deburr from "lodash.deburr"
+import media, { type Film, type Music } from "./src/media"
 
 /* ============================
    Constants
@@ -20,34 +20,26 @@ const urlRegex = /^(https?):\/\/[^\s/$.?#].[^\s]*$/i
 ============================ */
 
 function toKebabCase(str: string): string {
-	return deburr(str)
-		.toLowerCase()
-		.trim()
-		.replace(/[:/.]/g, "")
-		.replace(/\s+/g, "-")
+	return deburr(str).toLowerCase().trim().replace(/[:/.]/g, "").replace(/\s+/g, "-")
 }
 
-const toTitleCase = (s: string) =>
+const toTitleCase = (s: string | undefined): string | undefined =>
 	s
-		.replace(/[-_]/g, " ")
+		?.replace(/[-_]/g, " ")
 		.split(" ")
-		.map(w => w[0]?.toUpperCase() + w.slice(1).toLowerCase())
+		.map((w) => w[0]?.toUpperCase() + w.slice(1).toLowerCase())
 		.join(" ")
 
-const getUrlParts = (url: string) =>
-	new URL(url).pathname.split("/").filter(Boolean)
+const getUrlParts = (url: string) => new URL(url).pathname.split("/").filter(Boolean)
 
 /* ============================
    Image Helper
 ============================ */
 
-async function promptAndSaveImage(
-	filename: string,
-	resize: { width?: number; height: number }
-) {
+async function promptAndSaveImage(filename: string, resize: { width?: number; height: number }) {
 	const imageUrl = await input({
 		message: "Enter an image url:",
-		validate: v => urlRegex.test(v),
+		validate: (v) => urlRegex.test(v),
 		required: true,
 	})
 
@@ -55,26 +47,19 @@ async function promptAndSaveImage(
 		.get(imageUrl)
 		.buffer(true)
 		.parse(agent.parse.image)
-		.then(r => r.body)
+		.then((r) => r.body)
 
-	await sharp(buffer)
-		.resize(resize.width, resize.height)
-		.jpeg({ quality: IMAGE_QUALITY })
-		.toFile(`${PUBLIC_DIR}/${filename}`)
+	await sharp(buffer).resize(resize.width, resize.height).jpeg({ quality: IMAGE_QUALITY }).toFile(`${PUBLIC_DIR}/${filename}`)
 }
 
 /* ============================
    Entry Creators
 ============================ */
 
-async function createFilmEntry(
-	rym: string,
-	urlParts: string[],
-	date: string
-): Promise<Film> {
+async function createFilmEntry(rym: string, urlParts: string[], date: string): Promise<Film> {
 	const filmTitle = await input({
 		message: "Enter the film title:",
-		default: toTitleCase(urlParts.at(-1)!),
+		default: toTitleCase(urlParts.at(-1)),
 		required: true,
 	})
 
@@ -97,20 +82,16 @@ async function createFilmEntry(
 	}
 }
 
-async function createMusicEntry(
-	rym: string,
-	urlParts: string[],
-	date: string
-): Promise<Music> {
+async function createMusicEntry(rym: string, urlParts: string[], date: string): Promise<Music> {
 	const artist = await input({
 		message: "Enter the artist:",
-		default: toTitleCase(urlParts.at(-2)!),
+		default: toTitleCase(urlParts.at(-2)),
 		required: true,
 	})
 
 	const album = await input({
 		message: "Enter the album:",
-		default: toTitleCase(urlParts.at(-1)!),
+		default: toTitleCase(urlParts.at(-1)),
 		required: true,
 	})
 
@@ -137,7 +118,7 @@ async function createMusicEntry(
 
 const rym = await input({
 	message: "Enter the RYM url:",
-	validate: v => urlRegex.test(v),
+	validate: (v) => urlRegex.test(v),
 	required: true,
 })
 
@@ -150,11 +131,6 @@ const date = new Intl.DateTimeFormat("en-CA", {
 	day: "2-digit",
 }).format(new Date())
 
-const newEntry = isFilm
-	? await createFilmEntry(rym, urlParts, date)
-	: await createMusicEntry(rym, urlParts, date)
+const newEntry = isFilm ? await createFilmEntry(rym, urlParts, date) : await createMusicEntry(rym, urlParts, date)
 
-await fs.writeFile(
-	MEDIA_PATH,
-	JSON.stringify([...media, newEntry], null, 4)
-)
+await fs.writeFile(MEDIA_PATH, JSON.stringify([...media, newEntry], null, 4))

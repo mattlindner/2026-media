@@ -1,68 +1,68 @@
-import { useEffect } from "react";
-import { Media } from "../media";
-import { getMediaLabels } from "../util/mediaLabels";
-import "./Popup.css";
+import { useEffect } from "react"
+import type { Media } from "../media"
+import { getMediaLabels } from "../util/mediaLabels"
+import "./Popup.css"
 
 type PopupProps = {
-  media: Media | null;
-  closeModal: () => void;
-};
+	media: Media | null
+	closeModal: () => void
+}
 
 const Popup = ({ media, closeModal }: PopupProps) => {
-  if (!media) return null;
+	useEffect(() => {
+		if (!media) return
 
-  useEffect(() => {
-    const onClick = (event: MouseEvent) => {
-      if (event.target === document.getElementById("modal")) {
-        closeModal();
-      }
-    };
-    const onKeyDown = ({ key }: KeyboardEvent) => {
-      if (key === "Escape") {
-        closeModal();
-      }
-    };
+		const onClick = (event: MouseEvent) => {
+			if (event.target === document.getElementById("modal")) {
+				closeModal()
+			}
+		}
+		const onKeyDown = ({ key }: KeyboardEvent) => {
+			if (key === "Escape") {
+				closeModal()
+			}
+		}
 
-    window.addEventListener("click", onClick);
-    window.addEventListener("keydown", onKeyDown);
+		window.addEventListener("click", onClick)
+		window.addEventListener("keydown", onKeyDown)
 
-    return () => {
-      window.removeEventListener("click", onClick);
-      window.removeEventListener("keydown", onKeyDown);
-    };
-  }, [closeModal]);
+		return () => {
+			window.removeEventListener("click", onClick)
+			window.removeEventListener("keydown", onKeyDown)
+		}
+	}, [media, closeModal])
 
-  const { titleLabel, title, subtitleLabel, subtitle } = getMediaLabels(media);
+	if (!media) return null
 
-  return (
-    <div className="modal" id="modal">
-      <div className="modal-content">
-        <span className="modal-close" onClick={closeModal}>
-          x
-        </span>
-        <h1>{media.date}</h1>
-        <div>
-          <div className="popup-album">
-            <img
-              src={media.image}
-              alt={media.rym}
-              onClick={() => window.open(media.rym, "_blank")}
-            />
-            <div className="popup-info">
-              <div>{titleLabel}:</div>
-              <div>
-                <span className="big">{title}</span>
-              </div>
-              <div>{subtitleLabel}:</div>
-              <div>
-                <span className="big">{subtitle}</span>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  );
-};
+	const { titleLabel, title, subtitleLabel, subtitle } = getMediaLabels(media)
 
-export default Popup;
+	return (
+		<div className="modal" id="modal">
+			<div className="modal-content">
+				<button type="button" className="modal-close" onClick={closeModal}>
+					x
+				</button>
+				<h1>{media.date}</h1>
+				<div>
+					<div className="popup-album">
+						<a href={media.rym} target="_blank" rel="noreferrer">
+							<img src={media.image} alt={media.rym} />
+						</a>
+						<div className="popup-info">
+							<div>{titleLabel}:</div>
+							<div>
+								<span className="big">{title}</span>
+							</div>
+							<div>{subtitleLabel}:</div>
+							<div>
+								<span className="big">{subtitle}</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	)
+}
+
+export default Popup
