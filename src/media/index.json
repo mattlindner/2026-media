@@ -438,5 +438,13 @@
         "artist": "Heltah Skeltah",
         "album": "Nocturnal",
         "image": "music-nocturnal_heltah-skeltah.jpg"
+    },
+    {
+        "date": "2026-04-03",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/ras-kass/soul-on-ice/",
+        "artist": "Ras Kass",
+        "album": "Soul On Ice",
+        "image": "music-soul-on-ice_ras-kass.jpg"
     }
 ]
