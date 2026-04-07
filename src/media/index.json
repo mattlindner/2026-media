@@ -462,5 +462,13 @@
         "title": "Annie Hall",
         "director": "Woody Allen",
         "image": "film-annie-hall.jpg"
+    },
+    {
+        "date": "2026-04-07",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/showbiz-and-a_g/runaway-slave/",
+        "artist": "Showbiz & A.G.",
+        "album": "Runaway Slave",
+        "image": "music-runaway-slave_showbiz-&-ag.jpg"
     }
 ]
