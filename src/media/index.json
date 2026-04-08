@@ -470,5 +470,13 @@
         "artist": "Showbiz & A.G.",
         "album": "Runaway Slave",
         "image": "music-runaway-slave_showbiz-&-ag.jpg"
+    },
+    {
+        "date": "2026-04-08",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/poison-the-well/the-opposite-of-december-a-season-of-separation/",
+        "artist": "Poison The Well",
+        "album": "The Opposite of December... A Season of Separation",
+        "image": "music-the-opposite-of-december-a-season-of-separation_poison-the-well.jpg"
     }
 ]
