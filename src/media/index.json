@@ -478,5 +478,13 @@
         "artist": "Poison The Well",
         "album": "The Opposite of December... A Season of Separation",
         "image": "music-the-opposite-of-december-a-season-of-separation_poison-the-well.jpg"
+    },
+    {
+        "date": "2026-04-13",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/immolation/descent/",
+        "artist": "Immolation",
+        "album": "Descent",
+        "image": "music-descent_immolation.jpg"
     }
 ]
