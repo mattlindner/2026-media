@@ -486,5 +486,13 @@
         "artist": "Immolation",
         "album": "Descent",
         "image": "music-descent_immolation.jpg"
+    },
+    {
+        "date": "2026-04-14",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/deicide/deicide/",
+        "artist": "Deicide",
+        "album": "Deicide",
+        "image": "music-deicide_deicide.jpg"
     }
 ]
