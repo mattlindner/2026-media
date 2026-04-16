@@ -494,5 +494,13 @@
         "artist": "Deicide",
         "album": "Deicide",
         "image": "music-deicide_deicide.jpg"
+    },
+    {
+        "date": "2026-04-16",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/immolation/dawn-of-possession/",
+        "artist": "Immolation",
+        "album": "Dawn Of Possession",
+        "image": "music-dawn-of-possession_immolation.jpg"
     }
 ]
