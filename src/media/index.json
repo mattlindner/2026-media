@@ -502,5 +502,13 @@
         "artist": "Immolation",
         "album": "Dawn Of Possession",
         "image": "music-dawn-of-possession_immolation.jpg"
+    },
+    {
+        "date": "2026-04-17",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/the-drama/",
+        "title": "The Drama",
+        "director": "Kristoffer Borgli",
+        "image": "film-the-drama.jpg"
     }
 ]
