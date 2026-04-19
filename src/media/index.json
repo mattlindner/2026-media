@@ -510,5 +510,13 @@
         "title": "The Drama",
         "director": "Kristoffer Borgli",
         "image": "film-the-drama.jpg"
+    },
+    {
+        "date": "2026-04-19",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/incantation/mortal-throne-of-nazarene/",
+        "artist": "Incantation",
+        "album": "Mortal Throne Of Nazarene",
+        "image": "music-mortal-throne-of-nazarene_incantation.jpg"
     }
 ]
