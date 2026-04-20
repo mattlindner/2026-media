@@ -518,5 +518,13 @@
         "artist": "Incantation",
         "album": "Mortal Throne Of Nazarene",
         "image": "music-mortal-throne-of-nazarene_incantation.jpg"
+    },
+    {
+        "date": "2026-04-20",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/broken-torso/the-ultimate-abhorrence-1/",
+        "artist": "Broken Torso",
+        "album": "The Ultimate Abhorrence",
+        "image": "music-the-ultimate-abhorrence_broken-torso.jpg"
     }
 ]
