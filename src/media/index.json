@@ -534,5 +534,13 @@
         "title": "La Battaglia di Algeri",
         "director": "Gillo Pontecorvo",
         "image": "film-la-battaglia-di-algeri.jpg"
+    },
+    {
+        "date": "2026-04-23",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/ramones/ramones/",
+        "artist": "Ramones",
+        "album": "Ramones",
+        "image": "music-ramones_ramones.jpg"
     }
 ]
