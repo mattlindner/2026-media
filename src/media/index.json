@@ -550,5 +550,13 @@
         "artist": "Demilich",
         "album": "Nespithe",
         "image": "music-nespithe_demilich.jpg"
+    },
+    {
+        "date": "2026-04-27",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/annihilation/",
+        "title": "Annihilation",
+        "director": "Alex Garland",
+        "image": "film-annihilation.jpg"
     }
 ]
