@@ -542,5 +542,13 @@
         "artist": "Ramones",
         "album": "Ramones",
         "image": "music-ramones_ramones.jpg"
+    },
+    {
+        "date": "2026-04-27",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/demilich/nespithe/",
+        "artist": "Demilich",
+        "album": "Nespithe",
+        "image": "music-nespithe_demilich.jpg"
     }
 ]
