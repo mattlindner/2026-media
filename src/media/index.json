@@ -558,5 +558,13 @@
         "title": "Annihilation",
         "director": "Alex Garland",
         "image": "film-annihilation.jpg"
+    },
+    {
+        "date": "2026-04-29",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/the-chasm/conjuration-of-the-spectral-empire/",
+        "artist": "The Chasm",
+        "album": "Conjuration Of The Spectral Empire",
+        "image": "music-conjuration-of-the-spectral-empire_the-chasm.jpg"
     }
 ]
