@@ -566,5 +566,13 @@
         "artist": "The Chasm",
         "album": "Conjuration Of The Spectral Empire",
         "image": "music-conjuration-of-the-spectral-empire_the-chasm.jpg"
+    },
+    {
+        "date": "2026-04-30",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/the-chasm/the-spell-of-retribution/",
+        "artist": "The Chasm",
+        "album": "The Spell Of Retribution",
+        "image": "music-the-spell-of-retribution_the-chasm.jpg"
     }
 ]
