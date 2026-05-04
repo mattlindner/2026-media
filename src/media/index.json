@@ -574,5 +574,13 @@
         "artist": "The Chasm",
         "album": "The Spell Of Retribution",
         "image": "music-the-spell-of-retribution_the-chasm.jpg"
+    },
+    {
+        "date": "2026-05-04",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/wintersun/wintersun/",
+        "artist": "Wintersun",
+        "album": "Wintersun",
+        "image": "music-wintersun_wintersun.jpg"
     }
 ]
