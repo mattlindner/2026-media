@@ -582,5 +582,13 @@
         "artist": "Wintersun",
         "album": "Wintersun",
         "image": "music-wintersun_wintersun.jpg"
+    },
+    {
+        "date": "2026-05-04",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/2001-a-space-odyssey/",
+        "title": "2001: A Space Odyssey",
+        "director": "Stanley Kubrick",
+        "image": "film-2001-a-space-odyssey.jpg"
     }
 ]
