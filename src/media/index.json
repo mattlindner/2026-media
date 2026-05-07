@@ -590,5 +590,13 @@
         "title": "2001: A Space Odyssey",
         "director": "Stanley Kubrick",
         "image": "film-2001-a-space-odyssey.jpg"
+    },
+    {
+        "date": "2026-05-07",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/aphex-twin/drukqs/",
+        "artist": "Aphex Twin",
+        "album": "Drukqs",
+        "image": "music-drukqs_aphex-twin.jpg"
     }
 ]
