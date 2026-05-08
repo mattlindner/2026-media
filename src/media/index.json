@@ -598,5 +598,13 @@
         "artist": "Aphex Twin",
         "album": "Drukqs",
         "image": "music-drukqs_aphex-twin.jpg"
+    },
+    {
+        "date": "2026-05-08",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/jpegmafia-danny-brown/scaring-the-hoes/",
+        "artist": "JPEGMAFIA & Danny Brown",
+        "album": "Scaring The Hoes",
+        "image": "music-scaring-the-hoes_jpegmafia-&-danny-brown.jpg"
     }
 ]
