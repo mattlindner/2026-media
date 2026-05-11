@@ -606,5 +606,13 @@
         "artist": "JPEGMAFIA & Danny Brown",
         "album": "Scaring The Hoes",
         "image": "music-scaring-the-hoes_jpegmafia-&-danny-brown.jpg"
+    },
+    {
+        "date": "2026-05-11",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/panopticon/det-hjemsokte-hjertet/",
+        "artist": "Panopticon",
+        "album": "Det hjemsøkte hjertet",
+        "image": "music-det-hjemsokte-hjertet_panopticon.jpg"
     }
 ]
