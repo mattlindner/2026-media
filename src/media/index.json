@@ -614,5 +614,13 @@
         "artist": "Panopticon",
         "album": "Det hjemsøkte hjertet",
         "image": "music-det-hjemsokte-hjertet_panopticon.jpg"
+    },
+    {
+        "date": "2026-05-12",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/kneecap/fenian/",
+        "artist": "Kneecap",
+        "album": "Fenian",
+        "image": "music-fenian_kneecap.jpg"
     }
 ]
