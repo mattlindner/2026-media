@@ -622,5 +622,13 @@
         "artist": "Kneecap",
         "album": "Fenian",
         "image": "music-fenian_kneecap.jpg"
+    },
+    {
+        "date": "2026-05-13",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/built-to-spill/live/",
+        "artist": "Built To Spill",
+        "album": "Live",
+        "image": "music-live_built-to-spill.jpg"
     }
 ]
