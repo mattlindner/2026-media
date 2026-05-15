@@ -630,5 +630,13 @@
         "artist": "Built To Spill",
         "album": "Live",
         "image": "music-live_built-to-spill.jpg"
+    },
+    {
+        "date": "2026-05-14",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/kneecap/",
+        "title": "Kneecap",
+        "director": "Rich Peppiatt",
+        "image": "film-kneecap.jpg"
     }
 ]
