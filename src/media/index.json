@@ -638,5 +638,13 @@
         "title": "Kneecap",
         "director": "Rich Peppiatt",
         "image": "film-kneecap.jpg"
+    },
+    {
+        "date": "2026-05-17",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/show-and-a_g/goodfellas/",
+        "artist": "Showbiz & A.G.",
+        "album": "Goodfellas",
+        "image": "music-goodfellas_showbiz-&-ag.jpg"
     }
 ]
