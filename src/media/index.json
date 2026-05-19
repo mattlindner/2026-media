@@ -646,5 +646,13 @@
         "artist": "Showbiz & A.G.",
         "album": "Goodfellas",
         "image": "music-goodfellas_showbiz-&-ag.jpg"
+    },
+    {
+        "date": "2026-05-19",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/kaataira/caminhos-de-agua/",
+        "artist": "Kaátaìra",
+        "album": "Caminhos de água",
+        "image": "music-caminhos-de-agua_kaataira.jpg"
     }
 ]
