@@ -654,5 +654,13 @@
         "artist": "Kaátaìra",
         "album": "Caminhos de água",
         "image": "music-caminhos-de-agua_kaataira.jpg"
+    },
+    {
+        "date": "2026-05-21",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/rob-zombie/hellbilly-deluxe/",
+        "artist": "Rob Zombie",
+        "album": "Hellbilly Deluxe",
+        "image": "music-hellbilly-deluxe_rob-zombie.jpg"
     }
 ]
