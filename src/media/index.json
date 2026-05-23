@@ -662,5 +662,13 @@
         "artist": "Rob Zombie",
         "album": "Hellbilly Deluxe",
         "image": "music-hellbilly-deluxe_rob-zombie.jpg"
+    },
+    {
+        "date": "2026-05-22",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/punch-drunk-love/",
+        "title": "Punch-Drunk Love",
+        "director": "Paul Thomas Anderson",
+        "image": "film-punch-drunk-love.jpg"
     }
 ]
