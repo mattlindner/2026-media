@@ -678,5 +678,13 @@
         "artist": "Bob Costas",
         "album": "And The Fans Roared",
         "image": "music-and-the-fans-roared_bob-costas.jpg"
+    },
+    {
+        "date": "2026-05-25",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/belakor/stones-reach/",
+        "artist": "Be'lakor",
+        "album": "Stone's Reach",
+        "image": "music-stone's-reach_be'lakor.jpg"
     }
 ]
