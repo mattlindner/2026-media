@@ -686,5 +686,13 @@
         "artist": "Be'lakor",
         "album": "Stone's Reach",
         "image": "music-stone's-reach_be'lakor.jpg"
+    },
+    {
+        "date": "2026-05-27",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/yo-la-tengo/electr-o-pura/",
+        "artist": "Yo La Tengo",
+        "album": "Electr-o-Pura",
+        "image": "music-electr-o-pura_yo-la-tengo.jpg"
     }
 ]
