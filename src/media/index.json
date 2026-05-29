@@ -694,5 +694,13 @@
         "artist": "Yo La Tengo",
         "album": "Electr-o-Pura",
         "image": "music-electr-o-pura_yo-la-tengo.jpg"
+    },
+    {
+        "date": "2026-05-28",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/louis-theroux-the-settlers/",
+        "title": "Louis Theroux: The Settlers",
+        "director": "Joshua Baker",
+        "image": "film-louis-theroux-the-settlers.jpg"
     }
 ]
