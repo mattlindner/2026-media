@@ -702,5 +702,13 @@
         "title": "Louis Theroux: The Settlers",
         "director": "Joshua Baker",
         "image": "film-louis-theroux-the-settlers.jpg"
+    },
+    {
+        "date": "2026-05-31",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/boards-of-canada/inferno/",
+        "artist": "Boards Of Canada",
+        "album": "Inferno",
+        "image": "music-inferno_boards-of-canada.jpg"
     }
 ]
