@@ -710,5 +710,13 @@
         "artist": "Boards Of Canada",
         "album": "Inferno",
         "image": "music-inferno_boards-of-canada.jpg"
+    },
+    {
+        "date": "2026-06-02",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/camp-lo/uptown-saturday-night/",
+        "artist": "Camp Lo",
+        "album": "Uptown Saturday Night",
+        "image": "music-uptown-saturday-night_camp-lo.jpg"
     }
 ]
