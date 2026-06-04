@@ -718,5 +718,13 @@
         "artist": "Camp Lo",
         "album": "Uptown Saturday Night",
         "image": "music-uptown-saturday-night_camp-lo.jpg"
+    },
+    {
+        "date": "2026-06-04",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/yo-la-tengo/and-then-nothing-turned-itself-inside-out/",
+        "artist": "Yo La Tengo",
+        "album": "And Then Nothing Turned Itself Inside-Out",
+        "image": "music-and-then-nothing-turned-itself-inside-out_yo-la-tengo.jpg"
     }
 ]
