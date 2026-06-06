@@ -726,5 +726,13 @@
         "artist": "Yo La Tengo",
         "album": "And Then Nothing Turned Itself Inside-Out",
         "image": "music-and-then-nothing-turned-itself-inside-out_yo-la-tengo.jpg"
+    },
+    {
+        "date": "2026-06-05",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/showgirls/",
+        "title": "Showgirls",
+        "director": "Paul Verhoeven",
+        "image": "film-showgirls.jpg"
     }
 ]
