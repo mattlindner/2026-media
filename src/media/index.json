@@ -734,5 +734,13 @@
         "title": "Showgirls",
         "director": "Paul Verhoeven",
         "image": "film-showgirls.jpg"
+    },
+    {
+        "date": "2026-06-07",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/converge/hum-of-hurt/",
+        "artist": "Converge",
+        "album": "Hum Of Hurt",
+        "image": "music-hum-of-hurt_converge.jpg"
     }
 ]
