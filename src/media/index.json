@@ -742,5 +742,13 @@
         "artist": "Converge",
         "album": "Hum Of Hurt",
         "image": "music-hum-of-hurt_converge.jpg"
+    },
+    {
+        "date": "2026-06-08",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/earth%E2%80%99s-greatest-enemy/",
+        "title": "Earth’s Greatest Enemy",
+        "director": "Abby Martin",
+        "image": "film-earth’s-greatest-enemy.jpg"
     }
 ]
