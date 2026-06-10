@@ -750,5 +750,13 @@
         "title": "Earth’s Greatest Enemy",
         "director": "Abby Martin",
         "image": "film-earth’s-greatest-enemy.jpg"
+    },
+    {
+        "date": "2026-06-10",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/patricio-rey-y-sus-redonditos-de-ricota/oktubre/",
+        "artist": "Patricio Rey y Sus Redonditos de Ricota",
+        "album": "Oktubre",
+        "image": "music-oktubre_patricio-rey-y-sus-redonditos-de-ricota.jpg"
     }
 ]
