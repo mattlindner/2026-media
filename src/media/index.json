@@ -758,5 +758,13 @@
         "artist": "Patricio Rey y Sus Redonditos de Ricota",
         "album": "Oktubre",
         "image": "music-oktubre_patricio-rey-y-sus-redonditos-de-ricota.jpg"
+    },
+    {
+        "date": "2026-06-12",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/patricio-rey-y-sus-redonditos-de-ricota/un-baion-para-el-ojo-idiota/",
+        "artist": "Patricio Rey y Sus Redonditos de Ricota",
+        "album": "Un baión para el ojo idiota",
+        "image": "music-un-baion-para-el-ojo-idiota_patricio-rey-y-sus-redonditos-de-ricota.jpg"
     }
 ]
