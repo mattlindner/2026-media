@@ -766,5 +766,13 @@
         "artist": "Patricio Rey y Sus Redonditos de Ricota",
         "album": "Un baión para el ojo idiota",
         "image": "music-un-baion-para-el-ojo-idiota_patricio-rey-y-sus-redonditos-de-ricota.jpg"
+    },
+    {
+        "date": "2026-06-14",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/paul-mccartney/the-boys-of-dungeon-lane/",
+        "artist": "Paul Mccartney",
+        "album": "The Boys Of Dungeon Lane",
+        "image": "music-the-boys-of-dungeon-lane_paul-mccartney.jpg"
     }
 ]
