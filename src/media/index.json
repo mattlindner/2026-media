@@ -774,5 +774,13 @@
         "artist": "Paul Mccartney",
         "album": "The Boys Of Dungeon Lane",
         "image": "music-the-boys-of-dungeon-lane_paul-mccartney.jpg"
+    },
+    {
+        "date": "2026-06-17",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/santana/lotus/",
+        "artist": "Santana",
+        "album": "Lotus",
+        "image": "music-lotus_santana.jpg"
     }
 ]
