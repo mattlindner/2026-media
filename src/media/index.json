@@ -782,5 +782,13 @@
         "artist": "Santana",
         "album": "Lotus",
         "image": "music-lotus_santana.jpg"
+    },
+    {
+        "date": "2026-06-18",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/the-furious/",
+        "title": "The Furious",
+        "director": "谷垣健治 [Kenji Tanigaki]",
+        "image": "film-the-furious.jpg"
     }
 ]
