@@ -790,5 +790,13 @@
         "title": "The Furious",
         "director": "谷垣健治 [Kenji Tanigaki]",
         "image": "film-the-furious.jpg"
+    },
+    {
+        "date": "2026-06-19",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/hector-lavoe/comedia/",
+        "artist": "Héctor Lavoe",
+        "album": "Comedia",
+        "image": "music-comedia_hector-lavoe.jpg"
     }
 ]
