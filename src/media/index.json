@@ -798,5 +798,13 @@
         "artist": "Héctor Lavoe",
         "album": "Comedia",
         "image": "music-comedia_hector-lavoe.jpg"
+    },
+    {
+        "date": "2026-06-21",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/eddie-palmieri/unfinished-masterpiece/",
+        "artist": "Eddie Palmieri",
+        "album": "Unfinished Masterpiece",
+        "image": "music-unfinished-masterpiece_eddie-palmieri.jpg"
     }
 ]
