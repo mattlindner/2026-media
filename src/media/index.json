@@ -806,5 +806,13 @@
         "artist": "Eddie Palmieri",
         "album": "Unfinished Masterpiece",
         "image": "music-unfinished-masterpiece_eddie-palmieri.jpg"
+    },
+    {
+        "date": "2026-06-24",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/dying-fetus/destroy-the-opposition/",
+        "artist": "Dying Fetus",
+        "album": "Destroy The Opposition",
+        "image": "music-destroy-the-opposition_dying-fetus.jpg"
     }
 ]
