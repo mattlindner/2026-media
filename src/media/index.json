@@ -822,5 +822,13 @@
         "artist": "Dying Fetus",
         "album": "Reign Supreme",
         "image": "music-reign-supreme_dying-fetus.jpg"
+    },
+    {
+        "date": "2026-06-26",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/jackass-best-and-last/",
+        "title": "Jackass: Best and Last",
+        "director": "Jeff Tremaine",
+        "image": "film-jackass-best-and-last.jpg"
     }
 ]
