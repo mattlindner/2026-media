@@ -814,5 +814,13 @@
         "artist": "Dying Fetus",
         "album": "Destroy The Opposition",
         "image": "music-destroy-the-opposition_dying-fetus.jpg"
+    },
+    {
+        "date": "2026-06-26",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/dying-fetus/reign-supreme/",
+        "artist": "Dying Fetus",
+        "album": "Reign Supreme",
+        "image": "music-reign-supreme_dying-fetus.jpg"
     }
 ]
