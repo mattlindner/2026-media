@@ -830,5 +830,13 @@
         "title": "Jackass: Best and Last",
         "director": "Jeff Tremaine",
         "image": "film-jackass-best-and-last.jpg"
+    },
+    {
+        "date": "2026-06-29",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/angra/temple-of-shadows/",
+        "artist": "Angra",
+        "album": "Temple Of Shadows",
+        "image": "music-temple-of-shadows_angra.jpg"
     }
 ]
