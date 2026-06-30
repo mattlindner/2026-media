@@ -838,5 +838,13 @@
         "artist": "Angra",
         "album": "Temple Of Shadows",
         "image": "music-temple-of-shadows_angra.jpg"
+    },
+    {
+        "date": "2026-06-30",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/charly-garcia/clics-modernos/",
+        "artist": "Charly Garcia",
+        "album": "Clics Modernos",
+        "image": "music-clics-modernos_charly-garcia.jpg"
     }
 ]
