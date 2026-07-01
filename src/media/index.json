@@ -846,5 +846,13 @@
         "artist": "Charly Garcia",
         "album": "Clics Modernos",
         "image": "music-clics-modernos_charly-garcia.jpg"
+    },
+    {
+        "date": "2026-07-01",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/ostraca/disaster/",
+        "artist": "Ostraca",
+        "album": "Disaster",
+        "image": "music-disaster_ostraca.jpg"
     }
 ]
