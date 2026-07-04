@@ -854,5 +854,13 @@
         "artist": "Ostraca",
         "album": "Disaster",
         "image": "music-disaster_ostraca.jpg"
+    },
+    {
+        "date": "2026-07-03",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/louis-theroux-inside-the-manosphere/",
+        "title": "Louis Theroux: Inside the Manosphere",
+        "director": "Adrian Choa",
+        "image": "film-louis-theroux-inside-the-manosphere.jpg"
     }
 ]
