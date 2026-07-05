@@ -862,5 +862,13 @@
         "title": "Louis Theroux: Inside the Manosphere",
         "director": "Adrian Choa",
         "image": "film-louis-theroux-inside-the-manosphere.jpg"
+    },
+    {
+        "date": "2026-07-05",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/lawrence-of-arabia/",
+        "title": "Lawrence Of Arabia",
+        "director": "David Lean",
+        "image": "film-lawrence-of-arabia.jpg"
     }
 ]
