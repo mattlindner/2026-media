@@ -870,5 +870,13 @@
         "title": "Lawrence Of Arabia",
         "director": "David Lean",
         "image": "film-lawrence-of-arabia.jpg"
+    },
+    {
+        "date": "2026-07-07",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/the-mars-volta/amputechture/",
+        "artist": "The Mars Volta",
+        "album": "Amputechture",
+        "image": "music-amputechture_the-mars-volta.jpg"
     }
 ]
