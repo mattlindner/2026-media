@@ -878,5 +878,13 @@
         "artist": "The Mars Volta",
         "album": "Amputechture",
         "image": "music-amputechture_the-mars-volta.jpg"
+    },
+    {
+        "date": "2026-07-09",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/ray-barretto/rican-struction/",
+        "artist": "Ray Barretto",
+        "album": "Rican / Struction",
+        "image": "music-rican-struction_ray-barretto.jpg"
     }
 ]
