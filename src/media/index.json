@@ -894,5 +894,13 @@
         "artist": "Jorge Ben",
         "album": "Fôrça bruta",
         "image": "music-forca-bruta_jorge-ben.jpg"
+    },
+    {
+        "date": "2026-07-12",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/tiro-de-gracia/ser-humano/",
+        "artist": "Tiro de Gracia",
+        "album": "Ser Hümano!!",
+        "image": "music-ser-humano!!_tiro-de-gracia.jpg"
     }
 ]
