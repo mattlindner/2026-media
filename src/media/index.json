@@ -902,5 +902,13 @@
         "artist": "Tiro de Gracia",
         "album": "Ser Hümano!!",
         "image": "music-ser-humano!!_tiro-de-gracia.jpg"
+    },
+    {
+        "date": "2026-07-13",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/jeff-rosenstock/no-dream/",
+        "artist": "Jeff Rosenstock",
+        "album": "No Dream",
+        "image": "music-no-dream_jeff-rosenstock.jpg"
     }
 ]
