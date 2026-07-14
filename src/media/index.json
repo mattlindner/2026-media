@@ -910,5 +910,13 @@
         "artist": "Jeff Rosenstock",
         "album": "No Dream",
         "image": "music-no-dream_jeff-rosenstock.jpg"
+    },
+    {
+        "date": "2026-07-14",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/the-arrogant-sons-of-bitches/three-cheers-for-disappointment/",
+        "artist": "The Arrogant Sons Of Bitches",
+        "album": "Three Cheers For Disappointment",
+        "image": "music-three-cheers-for-disappointment_the-arrogant-sons-of-bitches.jpg"
     }
 ]
