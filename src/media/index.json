@@ -918,5 +918,13 @@
         "artist": "The Arrogant Sons Of Bitches",
         "album": "Three Cheers For Disappointment",
         "image": "music-three-cheers-for-disappointment_the-arrogant-sons-of-bitches.jpg"
+    },
+    {
+        "date": "2026-07-16",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/the-invite/",
+        "title": "The Invite",
+        "director": "Olivia Wilde",
+        "image": "film-the-invite.jpg"
     }
 ]
