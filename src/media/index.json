@@ -926,5 +926,13 @@
         "title": "The Invite",
         "director": "Olivia Wilde",
         "image": "film-the-invite.jpg"
+    },
+    {
+        "date": "2026-07-19",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/choking-victim/no-gods-no-managers/",
+        "artist": "Choking Victim",
+        "album": "No Gods / No Managers",
+        "image": "music-no-gods-no-managers_choking-victim.jpg"
     }
 ]
