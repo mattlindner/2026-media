@@ -934,5 +934,13 @@
         "artist": "Choking Victim",
         "album": "No Gods / No Managers",
         "image": "music-no-gods-no-managers_choking-victim.jpg"
+    },
+    {
+        "date": "2026-07-19",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/the-odyssey-2/",
+        "title": "The Odyssey",
+        "director": "Christopher Nolan",
+        "image": "film-the-odyssey.jpg"
     }
 ]
