@@ -942,5 +942,13 @@
         "title": "The Odyssey",
         "director": "Christopher Nolan",
         "image": "film-the-odyssey.jpg"
+    },
+    {
+        "date": "2026-07-22",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/almendra/almendra/",
+        "artist": "Almendra",
+        "album": "Almendra",
+        "image": "music-almendra_almendra.jpg"
     }
 ]
