@@ -958,5 +958,13 @@
         "artist": "Tad",
         "album": "God's Balls",
         "image": "music-god's-balls_tad.jpg"
+    },
+    {
+        "date": "2026-07-26",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/queensryche/operation-mindcrime/",
+        "artist": "Queensrÿche",
+        "album": "Operation: Mindcrime",
+        "image": "music-operation-mindcrime_queensryche.jpg"
     }
 ]
