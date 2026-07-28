@@ -966,5 +966,13 @@
         "artist": "Queensrÿche",
         "album": "Operation: Mindcrime",
         "image": "music-operation-mindcrime_queensryche.jpg"
+    },
+    {
+        "date": "2026-07-27",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/the-sonics/here-are-the-sonics/",
+        "artist": "The Sonics",
+        "album": "Here Are The Sonics!!!",
+        "image": "music-here-are-the-sonics!!!_the-sonics.jpg"
     }
 ]
