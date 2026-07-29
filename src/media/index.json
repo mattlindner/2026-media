@@ -974,5 +974,13 @@
         "artist": "The Sonics",
         "album": "Here Are The Sonics!!!",
         "image": "music-here-are-the-sonics!!!_the-sonics.jpg"
+    },
+    {
+        "date": "2026-07-29",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/wolves-in-the-throne-room/black-cascade/",
+        "artist": "Wolves In The Throne Room",
+        "album": "Black Cascade",
+        "image": "music-black-cascade_wolves-in-the-throne-room.jpg"
     }
 ]
