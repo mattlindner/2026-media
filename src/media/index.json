@@ -982,5 +982,13 @@
         "artist": "Wolves In The Throne Room",
         "album": "Black Cascade",
         "image": "music-black-cascade_wolves-in-the-throne-room.jpg"
+    },
+    {
+        "date": "2026-07-29",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/the-parallax-view/",
+        "title": "The Parallax View",
+        "director": "Alan J. Pakula",
+        "image": "film-the-parallax-view.jpg"
     }
 ]
