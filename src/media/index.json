@@ -990,5 +990,13 @@
         "title": "The Parallax View",
         "director": "Alan J. Pakula",
         "image": "film-the-parallax-view.jpg"
+    },
+    {
+        "date": "2026-08-02",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/leftover-crack/fuck-world-trade/",
+        "artist": "Leftöver Crack",
+        "album": "Fuck World Trade",
+        "image": "music-fuck-world-trade_leftover-crack.jpg"
     }
 ]
