@@ -998,5 +998,13 @@
         "artist": "Leftöver Crack",
         "album": "Fuck World Trade",
         "image": "music-fuck-world-trade_leftover-crack.jpg"
+    },
+    {
+        "date": "2026-08-04",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/pearl-jam/vs/",
+        "artist": "Pearl Jam",
+        "album": "Vs.",
+        "image": "music-vs_pearl-jam.jpg"
     }
 ]
