@@ -1006,5 +1006,13 @@
         "artist": "Pearl Jam",
         "album": "Vs.",
         "image": "music-vs_pearl-jam.jpg"
+    },
+    {
+        "date": "2026-08-05",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/sleater-kinney/dig-me-out/",
+        "artist": "Sleater-Kinney",
+        "album": "Dig Me Out",
+        "image": "music-dig-me-out_sleater-kinney.jpg"
     }
 ]
