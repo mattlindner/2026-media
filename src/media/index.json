@@ -1014,5 +1014,13 @@
         "artist": "Sleater-Kinney",
         "album": "Dig Me Out",
         "image": "music-dig-me-out_sleater-kinney.jpg"
+    },
+    {
+        "date": "2026-08-05",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/manhunter/",
+        "title": "Manhunter",
+        "director": "Michael Mann",
+        "image": "film-manhunter.jpg"
     }
 ]
