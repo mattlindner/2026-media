@@ -1022,5 +1022,13 @@
         "title": "Manhunter",
         "director": "Michael Mann",
         "image": "film-manhunter.jpg"
+    },
+    {
+        "date": "2026-08-09",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/sleater-kinney/the-hot-rock/",
+        "artist": "Sleater-Kinney",
+        "album": "The Hot Rock",
+        "image": "music-the-hot-rock_sleater-kinney.jpg"
     }
 ]
