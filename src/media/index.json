@@ -1030,5 +1030,13 @@
         "artist": "Sleater-Kinney",
         "album": "The Hot Rock",
         "image": "music-the-hot-rock_sleater-kinney.jpg"
+    },
+    {
+        "date": "2026-08-11",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/sleater-kinney/one-beat/",
+        "artist": "Sleater-Kinney",
+        "album": "One Beat",
+        "image": "music-one-beat_sleater-kinney.jpg"
     }
 ]
