@@ -1038,5 +1038,13 @@
         "artist": "Sleater-Kinney",
         "album": "One Beat",
         "image": "music-one-beat_sleater-kinney.jpg"
+    },
+    {
+        "date": "2026-08-13",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/whiplash-1/",
+        "title": "Whiplash",
+        "director": "Damien Chazelle",
+        "image": "film-whiplash.jpg"
     }
 ]
