@@ -1046,5 +1046,13 @@
         "title": "Whiplash",
         "director": "Damien Chazelle",
         "image": "film-whiplash.jpg"
+    },
+    {
+        "date": "2026-08-14",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/iggy-and-the-stooges/raw-power/",
+        "artist": "The Stooges",
+        "album": "Raw Power",
+        "image": "music-raw-power_the-stooges.jpg"
     }
 ]
