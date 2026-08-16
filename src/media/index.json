@@ -1054,5 +1054,13 @@
         "artist": "The Stooges",
         "album": "Raw Power",
         "image": "music-raw-power_the-stooges.jpg"
+    },
+    {
+        "date": "2026-08-16",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/charly-garcia/piano-bar/",
+        "artist": "Charly García",
+        "album": "Piano Bar",
+        "image": "music-piano-bar_charly-garcia.jpg"
     }
 ]
