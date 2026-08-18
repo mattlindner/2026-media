@@ -1070,5 +1070,13 @@
         "artist": "The Beach Boys",
         "album": "Surf's Up",
         "image": "music-surf's-up_the-beach-boys.jpg"
+    },
+    {
+        "date": "2026-08-18",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/love-and-mercy/",
+        "title": "Love & Mercy",
+        "director": "Bill Pohlad",
+        "image": "film-love-&-mercy.jpg"
     }
 ]
