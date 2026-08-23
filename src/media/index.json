@@ -1086,5 +1086,13 @@
         "artist": "The Beach Boys",
         "album": "The Smile Sessions",
         "image": "music-the-smile-sessions_the-beach-boys.jpg"
+    },
+    {
+        "date": "2026-08-23",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/jorge-ben/a-tabua-de-esmeralda/",
+        "artist": "Jorge Ben",
+        "album": "A Tábua de Esmeralda",
+        "image": "music-a-tabua-de-esmeralda_jorge-ben.jpg"
     }
 ]
