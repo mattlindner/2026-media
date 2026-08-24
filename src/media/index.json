@@ -1094,5 +1094,13 @@
         "artist": "Jorge Ben",
         "album": "A Tábua de Esmeralda",
         "image": "music-a-tabua-de-esmeralda_jorge-ben.jpg"
+    },
+    {
+        "date": "2026-08-24",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/the-bridge-on-the-river-kwai/",
+        "title": " The Bridge on the River Kwai",
+        "director": "David Lean",
+        "image": "film-the-bridge-on-the-river-kwai.jpg"
     }
 ]
