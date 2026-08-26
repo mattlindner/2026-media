@@ -1102,5 +1102,13 @@
         "title": " The Bridge on the River Kwai",
         "director": "David Lean",
         "image": "film-the-bridge-on-the-river-kwai.jpg"
+    },
+    {
+        "date": "2026-08-26",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/jorge-ben/africa-brasil/",
+        "artist": "Jorge Ben",
+        "album": "África Brasil",
+        "image": "music-africa-brasil_jorge-ben.jpg"
     }
 ]
