@@ -1110,5 +1110,13 @@
         "artist": "Jorge Ben",
         "album": "África Brasil",
         "image": "music-africa-brasil_jorge-ben.jpg"
+    },
+    {
+        "date": "2026-08-27",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/ep/city-of-caterpillar/driving-spain-up-a-wall/",
+        "artist": "City Of Caterpillar",
+        "album": "Driving Spain Up A Wall",
+        "image": "music-driving-spain-up-a-wall_city-of-caterpillar.jpg"
     }
 ]
