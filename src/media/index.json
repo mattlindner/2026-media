@@ -1118,5 +1118,13 @@
         "artist": "City Of Caterpillar",
         "album": "Driving Spain Up A Wall",
         "image": "music-driving-spain-up-a-wall_city-of-caterpillar.jpg"
+    },
+    {
+        "date": "2026-08-30",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/spinetta/a-18-del-sol/",
+        "artist": "Luis Alberto Spinetta",
+        "album": "A 18' del sol",
+        "image": "music-a-18'-del-sol_luis-alberto-spinetta.jpg"
     }
 ]
