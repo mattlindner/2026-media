@@ -1126,5 +1126,13 @@
         "artist": "Luis Alberto Spinetta",
         "album": "A 18' del sol",
         "image": "music-a-18'-del-sol_luis-alberto-spinetta.jpg"
+    },
+    {
+        "date": "2026-08-31",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/mastodon/marrow-deep/",
+        "artist": "Mastodon",
+        "album": "Marrow Deep",
+        "image": "music-marrow-deep_mastodon.jpg"
     }
 ]
