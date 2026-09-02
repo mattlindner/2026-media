@@ -1134,5 +1134,13 @@
         "artist": "Mastodon",
         "album": "Marrow Deep",
         "image": "music-marrow-deep_mastodon.jpg"
+    },
+    {
+        "date": "2026-09-02",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/la-maquina-de-hacer-pajaros/peliculas/",
+        "artist": "La Máquina de Hacer Pájaros",
+        "album": "Películas",
+        "image": "music-peliculas_la-maquina-de-hacer-pajaros.jpg"
     }
 ]
