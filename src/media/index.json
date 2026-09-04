@@ -1142,5 +1142,13 @@
         "artist": "La Máquina de Hacer Pájaros",
         "album": "Películas",
         "image": "music-peliculas_la-maquina-de-hacer-pajaros.jpg"
+    },
+    {
+        "date": "2026-09-03",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/black-swan/",
+        "title": "Black Swan",
+        "director": "Darren Aronofsky",
+        "image": "film-black-swan.jpg"
     }
 ]
