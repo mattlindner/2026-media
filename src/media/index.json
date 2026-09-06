@@ -1150,5 +1150,13 @@
         "title": "Black Swan",
         "director": "Darren Aronofsky",
         "image": "film-black-swan.jpg"
+    },
+    {
+        "date": "2026-09-06",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/chat-pile/who-loves-the-sun/",
+        "artist": "Chat Pile",
+        "album": "Who Loves The Sun",
+        "image": "music-who-loves-the-sun_chat-pile.jpg"
     }
 ]
