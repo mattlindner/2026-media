@@ -1158,5 +1158,13 @@
         "artist": "Chat Pile",
         "album": "Who Loves The Sun",
         "image": "music-who-loves-the-sun_chat-pile.jpg"
+    },
+    {
+        "date": "2026-09-08",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/la-maquina-de-hacer-pajaros/la-maquina-de-hacer-pajaros/",
+        "artist": "La Máquina de Hacer Pájaros",
+        "album": "La Maquina De Hacer Pajaros",
+        "image": "music-la-maquina-de-hacer-pajaros_la-maquina-de-hacer-pajaros.jpg"
     }
 ]
