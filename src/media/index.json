@@ -1174,5 +1174,13 @@
         "title": "Once Upon a Time in America",
         "director": "Sergio Leone",
         "image": "film-once-upon-a-time-in-america.jpg"
+    },
+    {
+        "date": "2026-09-11",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/main-source/breaking-atoms/",
+        "artist": "Main Source",
+        "album": "Breaking Atoms",
+        "image": "music-breaking-atoms_main-source.jpg"
     }
 ]
