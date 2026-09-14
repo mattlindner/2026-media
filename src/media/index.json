@@ -1182,5 +1182,13 @@
         "artist": "Main Source",
         "album": "Breaking Atoms",
         "image": "music-breaking-atoms_main-source.jpg"
+    },
+    {
+        "date": "2026-09-13",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/ep/pete-rock-and-c_l-smooth/all-souled-out/",
+        "artist": "Pete Rock & C.L. Smooth",
+        "album": "All Souled Out",
+        "image": "music-all-souled-out_pete-rock-&-cl-smooth.jpg"
     }
 ]
