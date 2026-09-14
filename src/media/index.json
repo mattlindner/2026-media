@@ -1190,5 +1190,13 @@
         "artist": "Pete Rock & C.L. Smooth",
         "album": "All Souled Out",
         "image": "music-all-souled-out_pete-rock-&-cl-smooth.jpg"
+    },
+    {
+        "date": "2026-09-14",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/first-blood/",
+        "title": "First Blood",
+        "director": "Ted Kotcheff",
+        "image": "film-first-blood.jpg"
     }
 ]
