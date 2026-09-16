@@ -1198,5 +1198,13 @@
         "title": "First Blood",
         "director": "Ted Kotcheff",
         "image": "film-first-blood.jpg"
+    },
+    {
+        "date": "2026-09-16",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/el-p/ill-sleep-when-youre-dead/",
+        "artist": "El P",
+        "album": "I'll Sleep When You're Dead",
+        "image": "music-i'll-sleep-when-you're-dead_el-p.jpg"
     }
 ]
