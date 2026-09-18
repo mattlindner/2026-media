@@ -1206,5 +1206,13 @@
         "artist": "El P",
         "album": "I'll Sleep When You're Dead",
         "image": "music-i'll-sleep-when-you're-dead_el-p.jpg"
+    },
+    {
+        "date": "2026-09-18",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/billy-woods-and-kenny-segal/hiding-places/",
+        "artist": "Billy Woods & Kenny Segal",
+        "album": "Hiding Places",
+        "image": "music-hiding-places_billy-woods-&-kenny-segal.jpg"
     }
 ]
