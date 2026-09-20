@@ -1214,5 +1214,13 @@
         "artist": "Billy Woods & Kenny Segal",
         "album": "Hiding Places",
         "image": "music-hiding-places_billy-woods-&-kenny-segal.jpg"
+    },
+    {
+        "date": "2026-09-20",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/billy-woods-and-kenny-segal/maps/",
+        "artist": "Billy Woods & Kenny Segal",
+        "album": "Maps",
+        "image": "music-maps_billy-woods-&-kenny-segal.jpg"
     }
 ]
