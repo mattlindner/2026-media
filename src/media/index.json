@@ -1222,5 +1222,13 @@
         "artist": "Billy Woods & Kenny Segal",
         "album": "Maps",
         "image": "music-maps_billy-woods-&-kenny-segal.jpg"
+    },
+    {
+        "date": "2026-09-21",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/coyote-vs-acme/",
+        "title": "Coyote vs. Acme",
+        "director": "Dave Green",
+        "image": "film-coyote-vs-acme.jpg"
     }
 ]
