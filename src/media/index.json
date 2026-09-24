@@ -1230,5 +1230,13 @@
         "title": "Coyote vs. Acme",
         "director": "Dave Green",
         "image": "film-coyote-vs-acme.jpg"
+    },
+    {
+        "date": "2026-09-24",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/sui-generis/pequenas-anecdotas-sobre-las-instituciones/",
+        "artist": "Sui Generis",
+        "album": "Pequeñas anécdotas sobre las instituciones",
+        "image": "music-pequenas-anecdotas-sobre-las-instituciones_sui-generis.jpg"
     }
 ]
