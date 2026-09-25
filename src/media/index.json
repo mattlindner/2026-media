@@ -1238,5 +1238,13 @@
         "artist": "Sui Generis",
         "album": "Pequeñas anécdotas sobre las instituciones",
         "image": "music-pequenas-anecdotas-sobre-las-instituciones_sui-generis.jpg"
+    },
+    {
+        "date": "2026-09-25",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/del-the-funky-homosapien/both-sides-of-the-brain/",
+        "artist": "Del the Funky Homosapien",
+        "album": "Both Sides of the Brain",
+        "image": "music-both-sides-of-the-brain_del-the-funky-homosapien.jpg"
     }
 ]
