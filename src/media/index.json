@@ -1262,5 +1262,13 @@
         "artist": "Demolition Hammer",
         "album": "Epidemic Of Violence",
         "image": "music-epidemic-of-violence_demolition-hammer.jpg"
+    },
+    {
+        "date": "2026-09-29",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/primetime/",
+        "title": "Primetime",
+        "director": "Lance Oppenheim",
+        "image": "film-primetime.jpg"
     }
 ]
