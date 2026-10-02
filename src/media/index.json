@@ -1270,5 +1270,13 @@
         "title": "Primetime",
         "director": "Lance Oppenheim",
         "image": "film-primetime.jpg"
+    },
+    {
+        "date": "2026-10-02",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/techno-animal/the-brotherhood-of-the-bomb/",
+        "artist": "Techno Animal",
+        "album": "The Brotherhood of the Bomb",
+        "image": "music-the-brotherhood-of-the-bomb_techno-animal.jpg"
     }
 ]
