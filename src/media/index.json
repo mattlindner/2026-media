@@ -1278,5 +1278,13 @@
         "artist": "Techno Animal",
         "album": "The Brotherhood of the Bomb",
         "image": "music-the-brotherhood-of-the-bomb_techno-animal.jpg"
+    },
+    {
+        "date": "2026-10-04",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/the-flashbulb/kirlian-selections/",
+        "artist": "The Flashbulb",
+        "album": "Kirlian Selections",
+        "image": "music-kirlian-selections_the-flashbulb.jpg"
     }
 ]
