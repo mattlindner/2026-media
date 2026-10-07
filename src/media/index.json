@@ -1286,5 +1286,13 @@
         "artist": "The Flashbulb",
         "album": "Kirlian Selections",
         "image": "music-kirlian-selections_the-flashbulb.jpg"
+    },
+    {
+        "date": "2026-10-06",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/jon-hopkins/immunity/",
+        "artist": "Jon Hopkins",
+        "album": "Immunity",
+        "image": "music-immunity_jon-hopkins.jpg"
     }
 ]
