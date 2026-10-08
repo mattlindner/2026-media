@@ -1294,5 +1294,13 @@
         "artist": "Jon Hopkins",
         "album": "Immunity",
         "image": "music-immunity_jon-hopkins.jpg"
+    },
+    {
+        "date": "2026-10-08",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/makiza/aerolineas-makiza/",
+        "artist": "Makiza",
+        "album": "Aerolineas Makiza",
+        "image": "music-aerolineas-makiza_makiza.jpg"
     }
 ]
