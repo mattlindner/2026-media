@@ -1310,5 +1310,13 @@
         "title": "Eyes Wide Shut",
         "director": "Stanley Kubrick",
         "image": "film-eyes-wide-shut.jpg"
+    },
+    {
+        "date": "2026-10-11",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/ep/deafheaven/at-work-in-the-fields-of-the-bomb/",
+        "artist": "Deafheaven",
+        "album": "At Work in the Fields of the Bomb",
+        "image": "music-at-work-in-the-fields-of-the-bomb_deafheaven.jpg"
     }
 ]
