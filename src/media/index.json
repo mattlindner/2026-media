@@ -1318,5 +1318,13 @@
         "artist": "Deafheaven",
         "album": "At Work in the Fields of the Bomb",
         "image": "music-at-work-in-the-fields-of-the-bomb_deafheaven.jpg"
+    },
+    {
+        "date": "2026-10-12",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/the-texas-chain-saw-massacre/",
+        "title": "The Texas Chain Saw Massacre",
+        "director": "Tobe Hooper",
+        "image": "film-the-texas-chain-saw-massacre.jpg"
     }
 ]
