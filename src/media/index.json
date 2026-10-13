@@ -1326,5 +1326,13 @@
         "title": "The Texas Chain Saw Massacre",
         "director": "Tobe Hooper",
         "image": "film-the-texas-chain-saw-massacre.jpg"
+    },
+    {
+        "date": "2026-10-13",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/seru-giran/grasa-de-las-capitales/",
+        "artist": "Serú Girán",
+        "album": "Grasa de las capitales",
+        "image": "music-grasa-de-las-capitales_seru-giran.jpg"
     }
 ]
