@@ -1350,5 +1350,13 @@
         "artist": "Denzel Curry",
         "album": "Melt My Eyez See Your Future",
         "image": "music-melt-my-eyez-see-your-future_denzel-curry.jpg"
+    },
+    {
+        "date": "2026-10-19",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/after-hours/",
+        "title": "After Hours",
+        "director": "Martin Scorsese",
+        "image": "film-after-hours.jpg"
     }
 ]
