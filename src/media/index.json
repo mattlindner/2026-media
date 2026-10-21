@@ -1358,5 +1358,13 @@
         "title": "After Hours",
         "director": "Martin Scorsese",
         "image": "film-after-hours.jpg"
+    },
+    {
+        "date": "2026-10-20",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/jay-z/the-blueprint/",
+        "artist": "Jay-Z",
+        "album": "The Blueprint",
+        "image": "music-the-blueprint_jay-z.jpg"
     }
 ]
