@@ -1366,5 +1366,13 @@
         "artist": "Jay-Z",
         "album": "The Blueprint",
         "image": "music-the-blueprint_jay-z.jpg"
+    },
+    {
+        "date": "2026-10-22",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/sonny-rollins/saxophone-colossus/",
+        "artist": "Sonny Rollins",
+        "album": "Saxophone Colossus",
+        "image": "music-saxophone-colossus_sonny-rollins.jpg"
     }
 ]
