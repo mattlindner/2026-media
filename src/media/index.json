@@ -1382,5 +1382,13 @@
         "artist": "Cro-Mags",
         "album": "The Age Of Quarrel",
         "image": "music-the-age-of-quarrel_cro-mags.jpg"
+    },
+    {
+        "date": "2026-10-25",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/the-french-connection/",
+        "title": "The French Connection",
+        "director": "William Friedkin",
+        "image": "film-the-french-connection.jpg"
     }
 ]
