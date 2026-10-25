@@ -1374,5 +1374,13 @@
         "artist": "Sonny Rollins",
         "album": "Saxophone Colossus",
         "image": "music-saxophone-colossus_sonny-rollins.jpg"
+    },
+    {
+        "date": "2026-10-25",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/cro-mags/the-age-of-quarrel/",
+        "artist": "Cro-Mags",
+        "album": "The Age Of Quarrel",
+        "image": "music-the-age-of-quarrel_cro-mags.jpg"
     }
 ]
