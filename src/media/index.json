@@ -1390,5 +1390,13 @@
         "title": "The French Connection",
         "director": "William Friedkin",
         "image": "film-the-french-connection.jpg"
+    },
+    {
+        "date": "2026-10-26",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/youth-of-today/break-down-the-walls/",
+        "artist": "Youth Of Today",
+        "album": "Break Down The Walls",
+        "image": "music-break-down-the-walls_youth-of-today.jpg"
     }
 ]
