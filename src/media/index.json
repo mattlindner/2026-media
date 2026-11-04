@@ -1406,5 +1406,13 @@
         "artist": "Glassjaw",
         "album": "Worship and Tribute",
         "image": "music-worship-and-tribute_glassjaw.jpg"
+    },
+    {
+        "date": "2026-11-03",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/cynic/focus/",
+        "artist": "Cynic",
+        "album": "Focus",
+        "image": "music-focus_cynic.jpg"
     }
 ]
