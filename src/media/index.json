@@ -1414,5 +1414,13 @@
         "artist": "Cynic",
         "album": "Focus",
         "image": "music-focus_cynic.jpg"
+    },
+    {
+        "date": "2026-11-04",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/diamond-and-the-psychotic-neurotics/stunts-blunts-and-hip-hop/",
+        "artist": "Diamond D",
+        "album": "Stunts, Blunts & Hip Hop",
+        "image": "music-stunts,-blunts-&-hip-hop_diamond-d.jpg"
     }
 ]
