@@ -1422,5 +1422,13 @@
         "artist": "Diamond D",
         "album": "Stunts, Blunts & Hip Hop",
         "image": "music-stunts,-blunts-&-hip-hop_diamond-d.jpg"
+    },
+    {
+        "date": "2026-11-05",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/type-o-negative/bloody-kisses/",
+        "artist": "Type O Negative",
+        "album": "Bloody Kisses",
+        "image": "music-bloody-kisses_type-o-negative.jpg"
     }
 ]
