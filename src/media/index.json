@@ -1430,5 +1430,13 @@
         "artist": "Type O Negative",
         "album": "Bloody Kisses",
         "image": "music-bloody-kisses_type-o-negative.jpg"
+    },
+    {
+        "date": "2026-11-07",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/you-can-see-everything/?_wl_challenge_id=d26c1f032b7c349fb418651100bf3b15&_wl_challenge_response=6a77392e9e711a2e64718693c9274512",
+        "title": "You Can See Everything",
+        "director": "Nathan Fielder / Lance Oppenheim",
+        "image": "film-you-can-see-everything.jpg"
     }
 ]
