@@ -1438,5 +1438,13 @@
         "title": "You Can See Everything",
         "director": "Nathan Fielder / Lance Oppenheim",
         "image": "film-you-can-see-everything.jpg"
+    },
+    {
+        "date": "2026-11-08",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/cult-of-luna/in-the-shadow-of-your-shadow/",
+        "artist": "Cult Of Luna",
+        "album": "In The Shadow Of Your Shadow",
+        "image": "music-in-the-shadow-of-your-shadow_cult-of-luna.jpg"
     }
 ]
