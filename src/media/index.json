@@ -1446,5 +1446,13 @@
         "artist": "Cult Of Luna",
         "album": "In The Shadow Of Your Shadow",
         "image": "music-in-the-shadow-of-your-shadow_cult-of-luna.jpg"
+    },
+    {
+        "date": "2026-11-09",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/the-exorcist/?_wl_challenge_id=b1e77026f8e9381d16cd7edc9907ecc4&_wl_challenge_response=9480a6b2cbcc37de51cd7ad3bb80c71a",
+        "title": "The Exorcist",
+        "director": "William Friedkin",
+        "image": "film-the-exorcist.jpg"
     }
 ]
