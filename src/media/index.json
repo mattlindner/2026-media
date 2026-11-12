@@ -1454,5 +1454,13 @@
         "title": "The Exorcist",
         "director": "William Friedkin",
         "image": "film-the-exorcist.jpg"
+    },
+    {
+        "date": "2026-11-12",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/ep/scattered-remnants/inherent-perversion/",
+        "artist": "Scattered Remnants",
+        "album": "Inherent Perversion",
+        "image": "music-inherent-perversion_scattered-remnants.jpg"
     }
 ]
