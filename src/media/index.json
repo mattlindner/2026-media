@@ -1462,5 +1462,13 @@
         "artist": "Scattered Remnants",
         "album": "Inherent Perversion",
         "image": "music-inherent-perversion_scattered-remnants.jpg"
+    },
+    {
+        "date": "2026-11-13",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/the-newfound-interest-in-connecticut/tell-me-about-the-long-dark-path-home/?_wl_challenge_id=05dfd11d44edbfbc283a6026789c17cf&_wl_challenge_response=5e137585d9011f1d1860c735ca89a057",
+        "artist": "The Newfound Interest In Connecticut",
+        "album": "Tell Me About The Long Dark Path Home",
+        "image": "music-tell-me-about-the-long-dark-path-home_the-newfound-interest-in-connecticut.jpg"
     }
 ]
