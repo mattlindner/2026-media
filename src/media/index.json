@@ -1470,5 +1470,13 @@
         "artist": "The Newfound Interest In Connecticut",
         "album": "Tell Me About The Long Dark Path Home",
         "image": "music-tell-me-about-the-long-dark-path-home_the-newfound-interest-in-connecticut.jpg"
+    },
+    {
+        "date": "2026-11-15",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/aesop-rock-blockhead/trouble-mountain.p/?_wl_challenge_id=7b39e8c76c1515855571d7e1a8c6e483&_wl_challenge_response=a54f28474fb099fd462133e965c8f119",
+        "artist": "Aesop Rock",
+        "album": "Trouble Mountain",
+        "image": "music-trouble-mountain_aesop-rock.jpg"
     }
 ]
