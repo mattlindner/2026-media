@@ -1478,5 +1478,13 @@
         "artist": "Aesop Rock",
         "album": "Trouble Mountain",
         "image": "music-trouble-mountain_aesop-rock.jpg"
+    },
+    {
+        "date": "2026-11-17",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/cartola/cartola-1/",
+        "artist": "Cartola",
+        "album": "Cartola",
+        "image": "music-cartola_cartola.jpg"
     }
 ]
