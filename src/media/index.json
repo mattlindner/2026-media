@@ -1486,5 +1486,13 @@
         "artist": "Cartola",
         "album": "Cartola",
         "image": "music-cartola_cartola.jpg"
+    },
+    {
+        "date": "2026-11-18",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/%D0%B8%D0%B4%D0%B8-%D0%B8-%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8/",
+        "title": "Come and See",
+        "director": "Элем Климов [Elem Klimov]",
+        "image": "film-come-and-see.jpg"
     }
 ]
