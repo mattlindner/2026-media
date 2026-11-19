@@ -1494,5 +1494,13 @@
         "title": "Come and See",
         "director": "Элем Климов [Elem Klimov]",
         "image": "film-come-and-see.jpg"
+    },
+    {
+        "date": "2026-11-19",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/novos-baianos/acabou-chorare/",
+        "artist": "Novos Baianos",
+        "album": "Acabou chorare",
+        "image": "music-acabou-chorare_novos-baianos.jpg"
     }
 ]
