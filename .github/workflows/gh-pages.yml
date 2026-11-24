@@ -44,8 +44,12 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
+          # Unique name per attempt so re-runs don't collide with the first attempt's artifact
+          name: github-pages-${{ github.run_attempt }}
           # Upload dist folder
           path: "./dist"
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-${{ github.run_attempt }}
