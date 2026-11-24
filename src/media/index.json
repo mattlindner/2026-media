@@ -1502,5 +1502,13 @@
         "artist": "Novos Baianos",
         "album": "Acabou chorare",
         "image": "music-acabou-chorare_novos-baianos.jpg"
+    },
+    {
+        "date": "2026-11-23",
+        "type": "film",
+        "rym": "https://rateyourmusic.com/film/schindlers-list/?",
+        "title": "Schindler's List",
+        "director": "Steven Spielberg",
+        "image": "film-schindler's-list.jpg"
     }
 ]
