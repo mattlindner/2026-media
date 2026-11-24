@@ -1510,5 +1510,13 @@
         "title": "Schindler's List",
         "director": "Steven Spielberg",
         "image": "film-schindler's-list.jpg"
+    },
+    {
+        "date": "2026-11-24",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/javiera-mena/esquemas-juveniles/",
+        "artist": "Javiera Mena",
+        "album": "Esquemas juveniles",
+        "image": "music-esquemas-juveniles_javiera-mena.jpg"
     }
 ]
