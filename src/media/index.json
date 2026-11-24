@@ -1434,7 +1434,7 @@
     {
         "date": "2026-11-07",
         "type": "film",
-        "rym": "https://rateyourmusic.com/film/you-can-see-everything/?_wl_challenge_id=d26c1f032b7c349fb418651100bf3b15&_wl_challenge_response=6a77392e9e711a2e64718693c9274512",
+        "rym": "https://rateyourmusic.com/film/you-can-see-everything/",
         "title": "You Can See Everything",
         "director": "Nathan Fielder / Lance Oppenheim",
         "image": "film-you-can-see-everything.jpg"
@@ -1450,7 +1450,7 @@
     {
         "date": "2026-11-09",
         "type": "film",
-        "rym": "https://rateyourmusic.com/film/the-exorcist/?_wl_challenge_id=b1e77026f8e9381d16cd7edc9907ecc4&_wl_challenge_response=9480a6b2cbcc37de51cd7ad3bb80c71a",
+        "rym": "https://rateyourmusic.com/film/the-exorcist/",
         "title": "The Exorcist",
         "director": "William Friedkin",
         "image": "film-the-exorcist.jpg"
@@ -1466,7 +1466,7 @@
     {
         "date": "2026-11-14",
         "type": "music",
-        "rym": "https://rateyourmusic.com/release/album/the-newfound-interest-in-connecticut/tell-me-about-the-long-dark-path-home/?_wl_challenge_id=05dfd11d44edbfbc283a6026789c17cf&_wl_challenge_response=5e137585d9011f1d1860c735ca89a057",
+        "rym": "https://rateyourmusic.com/release/album/the-newfound-interest-in-connecticut/tell-me-about-the-long-dark-path-home/",
         "artist": "The Newfound Interest In Connecticut",
         "album": "Tell Me About The Long Dark Path Home",
         "image": "music-tell-me-about-the-long-dark-path-home_the-newfound-interest-in-connecticut.jpg"
@@ -1474,7 +1474,7 @@
     {
         "date": "2026-11-15",
         "type": "music",
-        "rym": "https://rateyourmusic.com/release/album/aesop-rock-blockhead/trouble-mountain.p/?_wl_challenge_id=7b39e8c76c1515855571d7e1a8c6e483&_wl_challenge_response=a54f28474fb099fd462133e965c8f119",
+        "rym": "https://rateyourmusic.com/release/album/aesop-rock-blockhead/trouble-mountain.p/",
         "artist": "Aesop Rock",
         "album": "Trouble Mountain",
         "image": "music-trouble-mountain_aesop-rock.jpg"
