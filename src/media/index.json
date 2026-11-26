@@ -1518,5 +1518,13 @@
         "artist": "Javiera Mena",
         "album": "Esquemas juveniles",
         "image": "music-esquemas-juveniles_javiera-mena.jpg"
+    },
+    {
+        "date": "2026-11-26",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/comp/magdalena-bay/nice-day-a-collection-of-singles/",
+        "artist": "Magdalena Bay",
+        "album": "Nice Day: A Collection of Singles",
+        "image": "music-nice-day-a-collection-of-singles_magdalena-bay.jpg"
     }
 ]
