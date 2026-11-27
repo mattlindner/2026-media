@@ -1526,5 +1526,13 @@
         "artist": "Magdalena Bay",
         "album": "Nice Day: A Collection of Singles",
         "image": "music-nice-day-a-collection-of-singles_magdalena-bay.jpg"
+    },
+    {
+        "date": "2026-11-27",
+        "type": "music",
+        "rym": "https://rateyourmusic.com/release/album/mgla/traitors-to-the-human-cause/",
+        "artist": "Mgła",
+        "album": "Traitors to the Human Cause",
+        "image": "music-traitors-to-the-human-cause_mgla.jpg"
     }
 ]
